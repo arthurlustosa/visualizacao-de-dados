@@ -1,7 +1,17 @@
-chart("datacsv", "orange");
+chart("https://raw.githubusercontent.com/arthurlustosa/visualizacao-de-dados/master/data/data_streamgraph.csv", "blue");
 
 var datearray = [];
 var colorrange = [];
+
+var width = 1000;
+var svg = d3.select("#chart")
+    .append("svg")
+    .attr('version', '1.1')
+    .attr('viewBox', '0 0 '+width+' '+width)
+    .attr('width', '100%')
+    .attr('class', 'bubble-chart');
+
+var format = d3.format(",d");
 
 
 function chart(csvpath, color) {
