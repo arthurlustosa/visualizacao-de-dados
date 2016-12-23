@@ -3,7 +3,7 @@ chart("https://raw.githubusercontent.com/arthurlustosa/visualizacao-de-dados/mas
 var datearray = [];
 var colorrange = [];
 
-var width = 1000;
+var width = 700;
 var svg = d3.select("#chart")
     .append("svg")
     .attr('version', '1.1')
