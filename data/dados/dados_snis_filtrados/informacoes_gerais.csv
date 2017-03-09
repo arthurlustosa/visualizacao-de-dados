@@ -1,0 +1,1136 @@
+"Código.do.Município","Município","Estado","Ano.de.Referência","Prestadores","Serviços","GE201...O.Órgão..prestador..é.também.o.prestador...direto.ou.indireto...dos.serviços.de.abastecimento.de.água.e.esgotamento.sanitário.no.município...Antigo.campo.GE056.","GE202...Há.empresa.com.contrato.de.DELEGAÇÃO..concessão.ou.contrato.de.programa..para.algum.ou.todos.os.serviços.de.limpeza.urbana.do.município...Antigo.campo.GE055.","POP_TOT...População.total.do.município..Fonte..IBGE....Habitantes.","POP_URB...População.urbana.do.município..Fonte..IBGE...Habitantes."
+220005,"Acauã","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22000540] PREFEITURA - SO","Água; Res Sólidos","Não","Não",6933,926
+220025,"Alagoinha do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22002540] PREFEITURA MUNICIPAL DE ALAGOINHA DO PIAUI - PMAPI","Água; Res Sólidos","Abastecimento de Água","Sim",7501,2727
+220027,"Alegrete do Piauí","PI",2015,"[22002711] Prefeitura Municipal de Alegrete do Piauí - PMAPI; [22002740] Prefeitura Municipal de Alegrete do Piauí - PMAPI","Água; Res Sólidos","Abastecimento de Água","Não",4832,2660
+220045,"Alvorada do Gurguéia","PI",2015,"[22004511] Prefeitura Municipal de Alvorada do Gurguéia - PMAG; [22004540] PREFEITURA MUNICIPAL DE ALVORADA DO GURGUEIA - PMAGPI","Água; Res Sólidos","Não","Não",5278,1932
+220070,"Anísio de Abreu","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",9597,4750
+220090,"Aroazes","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",5763,3421
+220095,"Aroeiras do Itaim","PI",2015,"","","","",2460,240
+220105,"Assunção do Piauí","PI",2015,"[22010511] Prefeitura Municipal de Assunção do Piauí - PMAP; [22010540] SECRETARIA DE ADMINISTRAÇÃO E PLANEJAMENTO - SAPLAN","Água; Res Sólidos","Abastecimento de Água","Não",7686,3460
+220110,"Avelino Lopes","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22011040] PREFEITURA MUNICIPAL DE AVELINO LOPES - PMAL","Água; Res Sólidos","Abastecimento de Água","Não",11433,6936
+220155,"Bela Vista do Piauí","PI",2015,"[22015540] PREFEITURA MUNICIPAL DE BELA VISTA DO PIAUI - PM","Res Sólidos","Abastecimento de Água","Não",3919,1289
+220157,"Belém do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",3464,1691
+220170,"Bertolínia","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",5402,3955
+220173,"Betânia do Piauí","PI",2015,"[22017340] Prefeitura Municipal de Betânia do Piaui - PM","Res Sólidos","Abastecimento de Água","Não",6097,1701
+220180,"Bocaina","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",4436,1773
+220190,"Bom Jesus","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",24327,18945
+220192,"Bonfim do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",5549,1682
+220198,"Brejo do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22019840] Prefeitura Municipal de Brejo do Piauí - PMBP","Água; Res Sólidos","Não","Não",3871,1434
+220202,"Buriti dos Montes","PI",2015,"[22020211] Prefeitura Municipal de Buriti dos Montes - PMBM; [22020240] Prefeitura Municipal de Buriti dos Montes - PMBM","Água; Res Sólidos","Abast Água e Esg Sanitário","Não",8188,2486
+220207,"Cajazeiras do Piauí","PI",2015,"","","","",3471,1155
+220209,"Caldeirão Grande do Piauí","PI",2015,"","","","",5674,1663
+220210,"Campinas do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",5507,1840
+220211,"Campo Alegre do Fidalgo","PI",2015,"","","","",4911,1281
+220213,"Campo Grande do Piauí","PI",2015,"[22021311] Prefeitura Municipal de Campo Grande do Piauí - PMCGP; [22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22021340] Prefeitura Municipal Campo Grande do Piauí - PM","Água e Esgoto; Água; Res Sólidos","Abastecimento de Água","Não",5801,1628
+220225,"Canavieira","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",3904,1730
+220230,"Canto do Buriti","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22023040] PREFEITURA MUNICIPAL DE CANTO DO BURITI - PI","Água; Res Sólidos","Não","Sim",20700,11508
+220245,"Capitão Gervásio Oliveira","PI",2015,"[22024511] Prefeitura Municipal de Capitão Gervásio Oliveira - PMCGO; [22024540] PREFEITURA MUNICIPAL DE CAPITAO GERVASIO OLIVEIRA - PMCGO","Água; Res Sólidos","Não","Não",4008,1201
+220250,"Caracol","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",10641,4197
+220255,"Caridade do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",4994,1634
+220260,"Castelo do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22026040] PREFEITURA MUNICIPAL DE CASTELO DO PIAUI - PMC","Água; Res Sólidos","Não","Não",18160,11369
+220275,"Colônia do Gurguéia","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",6314,5073
+220277,"Colônia do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",7527,2677
+220280,"Conceição do Canindé","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22028040] SECRETARIA DE OBRAS SANEAMENTO E ABASTECIMENTO - SOSA","Água; Res Sólidos","Não","Não",4536,2395
+220285,"Coronel José Dias","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",4602,1511
+220310,"Cristino Castro","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",10214,7432
+220320,"Curimatá","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",11121,7321
+220323,"Currais","PI",2015,"","","","",4845,952
+220327,"Curral Novo do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",5086,1440
+220335,"Dirceu Arcoverde","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",6862,2435
+220340,"Dom Expedito Lopes","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22034040] Prefeitura Municipal de Dom Expedito Lopes - PMDEL","Água; Res Sólidos","Abastecimento de Água","Não",6756,3674
+220342,"Domingos Mourão","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",4290,964
+220345,"Dom Inocêncio","PI",2015,"[22034540] Secretaria Municipal de Obras - SMO","Res Sólidos","Abastecimento de Água","Não",9387,2049
+220360,"Eliseu Martins","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",4807,3937
+220375,"Fartura do Piauí","PI",2015,"","","","",5199,1369
+220380,"Flores do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",4394,2000
+220385,"Floresta do Piauí","PI",2015,"","","","",2515,872
+220415,"Francisco Macedo","PI",2015,"[22041540] Prefeitura Municipal de Francisco Macedo - PMFM","Res Sólidos","Abast Água e Esg Sanitário","Não",3097,1247
+220420,"Francisco Santos","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22042040] Prefeitura Municipal de Francisco Santos - PMFS","Água; Res Sólidos","Não","Não",9054,4193
+220430,"Fronteiras","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22043040] Prefeitura Municipal de Fronteiras - PMF","Água; Res Sólidos","Esgotamento Sanitário","Não",11372,7455
+220435,"Geminiano","PI",2015,"","","","",5319,1181
+220455,"Guaribas","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",4478,1297
+220470,"Inhuma","PI",2015,"[22047011] Prefeitura Municipal de Inhuma - PMI; [22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22047040] Prefeitura Municipal de Inhuma - PMI","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",15044,7377
+220480,"Ipiranga do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22048040] Prefeitura Municipal de Ipiranga do Piauí - PMI","Água; Res Sólidos","Não","Não",9599,5914
+220490,"Isaías Coelho","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",8408,1907
+220500,"Itainópolis","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",11354,2586
+220510,"Itaueira","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22051040] Prefeitura Municipal de Itaueira - PMI","Água; Res Sólidos","Não","Não",10828,6033
+220515,"Jacobina do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",5682,1017
+220520,"Jaicós","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",18660,8803
+220535,"João Costa","PI",2015,"[22053511] Prefeitura Municipal de João Costa - PMJC; [22053540] Prefeitura Municipal de João Costa - PMJC","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",2965,702
+220551,"Juazeiro do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22055140] Prefeitura Municipal de Juazeiro do Piaui - PMJPI","Água; Res Sólidos","Não","Não",5380,1673
+220552,"Júlio Borges","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",5510,1659
+220553,"Jurema","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",4657,893
+220556,"Lagoa do Barro do Piauí","PI",2015,"[22055640] Prefeitura Municipal Lagoa do Barro do Piauí - PMLBP","Res Sólidos","Não","Não",4579,1006
+220557,"Lagoa de São Francisco","PI",2015,"","","","",6611,2154
+220559,"Lagoa do Sítio","PI",2015,"","","","",5047,1793
+220590,"Manoel Emídio","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",5263,3347
+220595,"Marcolândia","PI",2015,"","","","",8249,7082
+220605,"Massapê do Piauí","PI",2015,"","","","",6323,951
+220635,"Milton Brandão","PI",2015,"[22063511] Prefeitura Municipal de Milton Brandão - PMMB; [22063540] PREFEITURA MUNICIPAL DE MILTON BRANDAO - PMMB","Água; Res Sólidos","Abastecimento de Água","Não",6517,1638
+220650,"Monsenhor Hipólito","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22065040] Prefeitura Municipal de Monsenhor Hipólito - PMMH","Água; Res Sólidos","Não","Não",7586,3577
+220665,"Morro Cabeça no Tempo","PI",2015,"","","","",4073,1406
+220670,"Nazaré do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",7261,3474
+220690,"Novo Oriente do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",6483,3272
+220700,"Oeiras","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22070040] Prefeitura Municipal - PM","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",36329,22422
+220720,"Padre Marcos","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",6748,2384
+220730,"Paes Landim","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22073040] Prefeitura Municipal de Paes Landim - PMPL","Água; Res Sólidos","Esgotamento Sanitário","Não",4071,2383
+220735,"Pajeú do Piauí","PI",2015,"[22073511] Prefeitura Municipal de Pajeu do Piauí - PMPP","Água","","",3308,1403
+220740,"Palmeira do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",4980,1759
+220755,"Paquetá","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",3900,524
+220777,"Patos do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",6257,1731
+220780,"Paulistana","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",20168,10862
+220785,"Pavussu","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",3637,1780
+220790,"Pedro II","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",38055,23004
+220793,"Pedro Laurentino","PI",2015,"","","","",2481,844
+220795,"Nova Santa Rita","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",4286,721
+220800,"Picos","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água e Esgoto","","",76544,60793
+220810,"Pimenteiras","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22081040] Prefeitura Municipal de Pimenteiras - PMP","Água; Res Sólidos","Não","Não",11913,4869
+220820,"Pio IX","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22082040] Prefeitura Municipal de Pio Ix - PMPI","Água; Res Sólidos","Não","Não",18061,5408
+220830,"Piracuruca","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22083040] SECRETARIA MUNICIPAL DE MEIO AMBIENTE - SMMA","Água; Res Sólidos","Não","Não",28160,19671
+220865,"Queimada Nova","PI",2015,"","","","",8796,1189
+220870,"Redenção do Gurguéia","PI",2015,"[22087011] Prefeitura Municipal de Redenção do Gurguéia - PMRG; [22087040] Prefeitura Municipal de Redenção do Gurguéia - PMRG","Esgoto; Res Sólidos","Não","Não",8600,5462
+220887,"Ribeira do Piauí","PI",2015,"","","","",4381,1059
+220900,"Rio Grande do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",6329,4131
+220910,"Santa Cruz do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",6127,4134
+220915,"Santa Cruz dos Milagres","PI",2015,"[22091511] Prefeitura Municipal de Santa Cruz dos Milagres - PMSCM; [22091540] SECRETARIA DE AGRICULTURA - SA","Água; Res Sólidos","Não","Não",3926,2201
+220930,"Santa Luz","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",5719,3225
+220935,"Santana do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",4544,1792
+220937,"Santa Rosa do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22093740] Prefeitura Municipal de Santa Rosa do Piauí - PMSR","Água; Res Sólidos","Não","Não",5178,3676
+220940,"Santo Antônio de Lisboa","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",6244,4075
+220950,"Santo Inácio do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",3720,2342
+220955,"São Braz do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",4371,1035
+220965,"São Francisco de Assis do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22096540] PREFEITURA MUNICIPAL DE SÃO FRANCISCO DE ASSIS DO PIAUÍ - PMSFA","Água; Res Sólidos","Não","Não",5786,1485
+220970,"São Francisco do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",6329,1993
+220985,"São João da Canabrava","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22098540] PREFEITURA MUNICIPAL DE SAO JOAO DA CANABRAVA - PMSJC","Água; Res Sólidos","Não","Não",4523,1255
+220987,"São João da Fronteira","PI",2015,"","","","",5898,2389
+220990,"São João da Serra","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",6081,3404
+220995,"São João da Varjota","PI",2015,"[22099511] Prefeitura Municipal de São João da Varjota - PMSJV; [22099540] SECRETARIA DE SAÚDE - SSSV","Água; Res Sólidos","Abastecimento de Água","Não",4747,1418
+221000,"São João do Piauí","PI",2015,"[22100011] Prefeitura Municipal de São João do Piauí - PMSJP; [22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Esgoto; Água","","",20146,13882
+221005,"São José do Divino","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",5246,2762
+221010,"São José do Peixe","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",3697,1887
+221020,"São José do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",6610,1935
+221030,"São Julião","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22103040] Prefeitura MUNICIPAL DE SÃO JULIÃO - pmsj","Água; Res Sólidos","Não","Não",6244,2561
+221035,"São Lourenço do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",4493,1130
+221037,"São Luis do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",2595,825
+221039,"São Miguel do Fidalgo","PI",2015,"[22103940] PREFEITURA MUNICIPAL DE SÃO MIGUEL DO FIDALGO - PMSMF","Res Sólidos","Não","Não",2993,1091
+221040,"São Miguel do Tapuio","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",18105,6664
+221060,"São Raimundo Nonato","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22106040] DEPARTAMENTO DE LIMPEZA URBANA - DLU","Água; Res Sólidos","Não","Sim",33802,22236
+221063,"Sebastião Leal","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22106340] Prefeitura Municipal de Sebastião Leal - PMSL","Água; Res Sólidos","Não","Sim",4209,1965
+221070,"Simões","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",14411,5782
+221080,"Simplício Mendes","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",12424,7369
+221090,"Socorro do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",4512,1626
+221093,"Sussuapara","PI",2015,"","","","",6545,1662
+221095,"Tamboril do Piauí","PI",2015,"","","","",2851,1566
+221097,"Tanque do Piauí","PI",2015,"","","","",2703,1278
+221130,"Valença do Piauí","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA","Água","","",20568,15986
+221135,"Várzea Branca","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22113540] Prefeitura Municipal de Várzea Branca - PMVB","Água; Res Sólidos","Abastecimento de Água","Sim",4889,1141
+221150,"Vera Mendes","PI",2015,"","","","",3025,979
+221160,"Vila Nova do Piauí","PI",2015,"","","","",2965,732
+221170,"Wall Ferraz","PI",2015,"[22110000] Águas e Esgotos do Piauí S/A - AGESPISA; [22117040] PREFEITURA MUNICIPAL DE WALL FERRAZ - PMWF","Água; Res Sólidos","Não","Não",4375,1192
+230010,"Abaiara","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",11357,4925
+230015,"Acarapé","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",16288,8476
+230030,"Acopiara","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23003040] Secretaria da Infraestrutura - SEINFRA","Água e Esgoto; Res Sólidos","Não","Não",53135,26202
+230040,"Aiuaba","CE",2015,"","","","",16997,4145
+230050,"Alcântaras","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23005040] Prefeitura Municipal de Alcântaras - PMA","Água e Esgoto; Res Sólidos","Não","Não",11321,3624
+230060,"Altaneira","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",7344,5310
+230070,"Alto Santo","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",16876,8295
+230080,"Antonina do Norte","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",7227,5173
+230090,"Apuiarés","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23009040] PREFEITURA MUNICIPA DE APUIARES - PMA","Água; Res Sólidos","Não","Não",14565,6037
+230110,"Aracati","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23011040] SECRETARIA DE INFRAESTRUTURA E URBANISMO - SEINFRA","Água e Esgoto; Res Sólidos","Não","Não",72727,46307
+230120,"Aracoiaba","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",26134,14139
+230125,"Ararendá","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23012540] Prefeitura Municipal de Ararendá - PMA","Água; Res Sólidos","Não","Não",10775,5039
+230130,"Araripe","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23013040] Prefeitura Municipal de Araripe - PMA","Água; Res Sólidos","Não","Não",21289,13105
+230140,"Aratuba","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23014040] Prefeitura Municipal de Aratuba - PMA","Água e Esgoto; Res Sólidos","Não","Não",11358,3713
+230150,"Arneiroz","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",7771,3940
+230160,"Assaré","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",23126,12315
+230170,"Aurora","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23017040] PREFEITURTA MUNICIPAL DE AURORA CEARA - PMA","Água e Esgoto; Res Sólidos","Não","Não",24602,11842
+230180,"Baixio","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",6198,3398
+230185,"Banabuiú","CE",2015,"[23018511] Serviço Autônomo de Água e Esgoto - SAAE","Água","","",17906,9052
+230190,"Barbalha","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",58855,40449
+230195,"Barreira","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23019540] Secretaria da Infraestrutura e Controle Urbano - SEINCO","Água e Esgoto; Res Sólidos","Não","Não",20687,8590
+230200,"Barro","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",22279,13628
+230210,"Baturité","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23021040] SECRETARIA DE INFRAESTRUTURA E URBANISMO - SEINFRA","Água e Esgoto; Res Sólidos","Não","Não",34949,25631
+230240,"Boa Viagem","CE",2015,"[23024011] Serviço Autônomo de Água e Esgoto - SAAE; [23024012] Prefeitura Municipal de Boa Viagem - PMBV; [23024040] Prefeitura Municipal - PMBV","Água; Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",53838,27283
+230250,"Brejo Santo","CE",2015,"[23025040] SECRATARIA DE INFRAESTUTURA E URBANISMO - SEINFRA","Res Sólidos","Não","Não",48056,29832
+230270,"Campos Sales","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",27123,19525
+230280,"Canindé","CE",2015,"[23028011] Serviço Autônomo de Água e Esgoto de Canindé - SAAE; [23028040] SECRETARIA DE INFRAESTRUTURA E DESENVOLVIMENTO URBANO - SEINFRA","Água e Esgoto; Res Sólidos","Não","Não",76998,48464
+230290,"Capistrano","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",17573,6398
+230300,"Caridade","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23030040] Prefeitura Municipal de Caridade - PMC","Água; Res Sólidos","Não","Não",21800,12548
+230310,"Cariré","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23031040] PREFEITURA MUNICIPAL DE CARIRÉ - PMC","Água; Res Sólidos","Não","Não",18645,8436
+230320,"Caririaçu","CE",2015,"[23032011] Serviço Autônomo de Água e Esgoto - SAMAE","Água","","",26858,14278
+230330,"Cariús","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",18810,8419
+230340,"Carnaubal","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23034040] PREFEITURA DE CARNAUBAL / SECRETARIA DE INFRAESTRUTURA E SERVIÇOS PÚBLICOS - SEINFRA","Água; Res Sólidos","Abastecimento de Água","Não",17463,8301
+230360,"Catarina","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23036040] PREFEITURA MUNICIPAL DE CATARINA - PMC","Água e Esgoto; Res Sólidos","Não","Não",20079,9349
+230365,"Catunda","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",10294,5580
+230370,"Caucaia","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",353932,315628
+230380,"Cedro","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",25013,15459
+230393,"Choró","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",13294,3924
+230395,"Chorozinho","CE",2015,"[23039511] Prefeitura Municipal de Chorozinho - PMC; [23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23039540] Secretaria de Planejamento e Desenvolvimento Urbano - SPDU","Esgoto; Água; Res Sólidos","Não","Não",19192,11593
+230400,"Coreaú","CE",2015,"[23040011] Prefeitura Municipal de Coreaú - PMC; [23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23040040] PREFEITURA MUNICIPAL DE COREAÚ - PMC","Esgoto; Água e Esgoto; Res Sólidos","Não","Não",22889,14829
+230410,"Crateús","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",74271,53699
+230420,"Crato","CE",2015,"[23042011] Sociedade Anônima de Água e Esgoto do Crato - SAAEC","Água e Esgoto","","",128680,106943
+230423,"Croatá","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23042340] PREFEITURA MUNICIPAL DE CROATA - PMC","Água e Esgoto; Res Sólidos","Não","Não",17728,9387
+230426,"Deputado Irapuan Pinheiro","CE",2015,"[23042611] Prefeitura Municipal de Deputado Irapuan Pinheiro - PMDIP; [23042640] Secretaria de Obras.  Serviços Públicos e Transportes - SOSPT","Água; Res Sólidos","Não","Não",9444,4292
+230427,"Ererê","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",7104,3591
+230430,"Farias Brito","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23043040] SECRETARIA MUNICIPAL DE INFRAESTRUTURA - SEINFRA","Água; Res Sólidos","Não","Não",18861,8803
+230435,"Forquilha","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23043540] SEINFRA - SECRETARIA DE INFRAESTRUTURA - SEINFRA","Água e Esgoto; Res Sólidos","Não","Não",23544,16722
+230450,"Frecheirinha","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23045040] Secretaria de Infra Estrutura e Meio Ambiente - Meio Ambiente","Água e Esgoto; Res Sólidos","Não","Não",13541,7959
+230460,"General Sampaio","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23046040] Secretaria do Desenvolvimento Rural e Meio Ambiente - SEDERMA","Água; Res Sólidos","Não","Não",6763,3968
+230465,"Graça","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23046540] PREFEITURA MUNICIPAL DE GRAÇA - PMG","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",15294,5910
+230480,"Granjeiro","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23048040] Prefeitura Municipal de Granjeiro - PMG","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",4494,1330
+230490,"Groaíras","CE",2015,"[23049011] Prefeitura Municipal de Groaíras - PMG; [23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23049040] Prefeitura Municipal de Groaíras - PMG","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",10847,7504
+230500,"Guaraciaba do Norte","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23050040] Prefeitura Municipal de Guaraciaba do Norte - PMGN","Água e Esgoto; Res Sólidos","Não","Não",39151,18037
+230510,"Guaramiranga","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",3720,2229
+230520,"Hidrolândia","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",20055,11472
+230523,"Horizonte","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23052340] SECRETARIA DE INFRA-ESTRUTURA - SEINFRA","Água e Esgoto; Res Sólidos","Não","Não",63365,58614
+230526,"Ibaretama","CE",2015,"[23052640] Secretaria de Serviços Públicos - SSP","Res Sólidos","Não","Não",13188,4539
+230530,"Ibiapina","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23053040] PREFEITURA MUNICIPAL DE IBIAPINA - PMI","Água; Res Sólidos","Não","Não",24649,11122
+230533,"Ibicuitinga","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",12130,6145
+230535,"Icapuí","CE",2015,"[23053511] Serviço Autônomo de Água e Esgotos de Icapuí - SAAE; [23053540] Secretaria de Obras. Serviços Publicos e Urbanismo - SecObras","Água; Res Sólidos","Não","Não",19418,6110
+230540,"Icó","CE",2015,"[23054011] Serviço Autônomo de Água e Esgoto - SAAE; [23054040] PREFEITURA MUNICIPAL DE ICÓ - PMI/ICÓ","Água e Esgoto; Res Sólidos","Não","Não",67198,31274
+230550,"Iguatu","CE",2015,"[23055011] Serviço Autônomo de Água e Esgoto de Iguatu - SAAE; [23055040] Secretaria do Meio Ambiente e Desenvolvimento Urbano - SEMURB","Água e Esgoto; Res Sólidos","Não","Não",101386,78410
+230560,"Independência","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",25957,11645
+230565,"Ipaporanga","CE",2015,"","","","",11499,4193
+230570,"Ipaumirim","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23057040] PREFEITURA MUNICIPAL DE IPAUMIRIM - PMI","Água; Res Sólidos","Não","Sim",12305,7309
+230580,"Ipu","CE",2015,"[23058040] SECRETARIA MUNICIPAL DE INFRAESTRUTURA - SEINFRA","Res Sólidos","Não","Não",41391,26276
+230590,"Ipueiras","CE",2015,"","","","",38022,18436
+230600,"Iracema","CE",2015,"[23060011] Prefeitura Municipal de Iracema - PMI; [23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23060040] PREFEITURA MUNICIPAL DE IRACEMA - PMI","Esgoto; Água; Res Sólidos","Não","Não",14071,10069
+230610,"Irauçuba","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23061040] SECRETARIA DE INFRAESTRUTURA - SEINFRA","Água; Res Sólidos","Não","Não",23543,15126
+230620,"Itaiçaba","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23062040] PREFEITURA MUNICIPAL DE ITAIÇABA-SECRETARIA DE INFRAESTRUTURA - PMI-SEINFRA","Água; Res Sólidos","Não","Não",7656,4478
+230630,"Itapagé","CE",2015,"[23063011] Serviço Autônomo de Água e Esgoto - SAAE","Água e Esgoto","","",51113,35932
+230640,"Itapipoca","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23064040] PREFEITURA DE ITAPIPOCA - PMI","Água e Esgoto; Res Sólidos","Não","Não",124950,72031
+230650,"Itapiúna","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23065040] SECRETARIA DE OBRAS INFRAESTRUTURA E CONTROLE URBANO - SOICU","Água; Res Sólidos","Esgotamento Sanitário","Sim",19724,9339
+230660,"Itatira","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23066040] Secretaria Municipal de Infra Estrutura e Urbanismo S - SMIU","Água; Res Sólidos","Não","Não",20285,10223
+230670,"Jaguaretama","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23067040] Prefeitura Municipal de Jaguaretama - PMJ","Água e Esgoto; Res Sólidos","Não","Não",17997,8533
+230680,"Jaguaribara","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",11102,7700
+230690,"Jaguaribe","CE",2015,"[23069011] Serviço Autônomo de Água e Esgoto - SAAE; [23069040] Secretaria da Cidade e Infraestrutura - SEINFRA","Água e Esgoto; Res Sólidos","Não","Não",34561,23371
+230700,"Jaguaruana","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",33469,19867
+230710,"Jardim","CE",2015,"","","","",27072,9123
+230720,"Jati","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23072040] Prefeitura Municipal de Jati - PMJ","Água; Res Sólidos","Abastecimento de Água","Não",7807,4575
+230730,"Juazeiro do Norte","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23073040] Autarquia de Meio Ambiente de Juazeiro do Norte - AMAJU","Água e Esgoto; Res Sólidos","Não","Não",266022,255580
+230740,"Jucás","CE",2015,"[23074011] Serviço Autônomo de Água e Esgoto - SAAE","Água e Esgoto","","",24479,14549
+230750,"Lavras da Mangabeira","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",31383,18303
+230760,"Limoeiro do Norte","CE",2015,"[23076011] Serviço Autônomo de Água e Esgoto - SAAE","Água e Esgoto","","",58175,33586
+230763,"Madalena","CE",2015,"","","","",19425,9574
+230770,"Maranguape","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",123570,93916
+230800,"Massapê","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23080040] SECRETARIA DE INFRAESTRUTURA E MEIO AMBIENTE - SEIMA","Água e Esgoto; Res Sólidos","Não","Não",37560,25597
+230810,"Mauriti","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23081040] PREFEITURA MUNICIPAL DE MAURITI - PMM","Água e Esgoto; Res Sólidos","Não","Não",46113,24271
+230820,"Meruoca","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",14674,7952
+230830,"Milagres","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",28354,13574
+230835,"Milhã","CE",2015,"","","","",13170,6007
+230837,"Miraíma","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",13428,7183
+230840,"Missão Velha","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",35240,15854
+230850,"Mombaça","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23085040] PREFEITURA MUNICIPAL DE MOMBAÇA - PMM","Água; Res Sólidos","Não","Não",43619,19225
+230860,"Monsenhor Tabosa","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",17012,9534
+230870,"Morada Nova","CE",2015,"[23087011] Serviço de Autônomo de Água e Esgoto - SAAE","Água e Esgoto","","",61903,35309
+230900,"Mucambo","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",14357,9230
+230910,"Mulungu","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23091040] Prefeitura Municipal de Mulungu - PMM","Água e Esgoto; Res Sólidos","Não","Não",12526,4579
+230920,"Nova Olinda","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23092040] Secretaria de Serviço Publicos - SSP","Água; Res Sólidos","Não","Não",15181,10325
+230930,"Nova Russas","CE",2015,"","","","",31870,23923
+230940,"Novo Oriente","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23094040] Secretaria de Obras e Infraestrutura - SOI","Água e Esgoto; Res Sólidos","Esgotamento Sanitário","Não",28220,14628
+230945,"Ocara","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23094540] SECRETARIA DE INFRAESTRUTURA E DESENVOLVIMENTO URBANO - SEMID","Água e Esgoto; Res Sólidos","Não","Não",25123,7959
+230950,"Orós","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",21394,16027
+230960,"Pacajus","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",68800,56380
+230980,"Pacoti","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",11910,4869
+230990,"Pacujá","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",6168,3836
+231000,"Palhano","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23100040] PREFEITURA MUNICIPAL DE PALHANO - PMP","Água; Res Sólidos","Não","Não",9209,4690
+231010,"Palmácia","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",12895,5324
+231030,"Parambu","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23103040] Secretaria de Infraestrutura e Desenvolvimento Econômico - SEINFRA","Água; Res Sólidos","Não","Não",31293,14099
+231040,"Paramoti","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23104040] Secretaria de Desenvolvimento Agrário e Meio Ambiente - SEDAMA","Água e Esgoto; Res Sólidos","Não","Não",11549,5658
+231050,"Pedra Branca","CE",2015,"[23105011] Serviço Autônomo de Água e Esgoto - SAAE; [23105040] SECRETARIA DE DESENVOLVIMENTO URBANO E MEIO AMBIENTE - SEDUMA","Água; Res Sólidos","Não","Não",42746,25011
+231060,"Penaforte","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",8817,6859
+231070,"Pentecoste","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23107040] PREFEITURA MUNICÍPAL DE PENTECOSTE - PMP","Água; Res Sólidos","Não","Sim",36773,22224
+231080,"Pereiro","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",16115,5556
+231090,"Piquet Carneiro","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23109040] SECRETARIA MUNICIPAL DE INFRAESTRUTURA E RECURSOS HIDRICOS - SMIRH","Água; Res Sólidos","Não","Não",16461,7918
+231095,"Pires Ferreira","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",10674,3504
+231100,"Poranga","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23110040] Prefeitura Municipal - PMP","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",12224,7943
+231110,"Porteiras","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",15010,6168
+231120,"Potengi","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23112040] Prefeitura Municipal de Potengi - PMP","Água; Res Sólidos","Não","Não",10790,6000
+231123,"Potiretama","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",6318,2788
+231126,"Quiterianópolis","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23112640] Prefeitura Municipal de Quiterianópolis - PMQ","Água; Res Sólidos","Não","Não",20690,6548
+231130,"Quixadá","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23113040] SECRETARIA DESENVOLVIMENTO URBANO E MEIO AMBIENTE - SEDUMA","Água e Esgoto; Res Sólidos","Não","Não",85351,60870
+231135,"Quixelô","CE",2015,"[23113511] Serviço Autônomo de Água e Esgoto - SAAE; [23113540] Secretaria de Infraestrutura - Seinfra","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",14949,4912
+231140,"Quixeramobim","CE",2015,"[23114011] Serviço Autônomo de Águas e Esgoto de Quixeramobim - SAAE; [23114040] PREFEITURA MUNICIPAL DE QUIXERAMOBIM - CE","Água; Res Sólidos","Não","Não",77174,46618
+231150,"Quixeré","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23115040] SECRETARIA DE DESENVOLVIMENTO URBANO. MEIO AMBIENTE E INFRAESTRUTURA - PMQ","Água; Res Sólidos","Não","Não",21572,13257
+231160,"Redenção","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",27272,15625
+231170,"Reriutaba","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",19015,10350
+231180,"Russas","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",75018,48290
+231190,"Saboeiro","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23119040] Prefeitura Municipal de Saboeiro - PMS","Água e Esgoto; Res Sólidos","Não","Sim",15753,8456
+231195,"Salitre","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",16161,6550
+231200,"Santana do Acaraú","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",31596,16219
+231210,"Santana do Cariri","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23121040] Prefeitura Municipal de Santana do Cariri - PMSC","Água; Res Sólidos","Não","Não",17468,8975
+231220,"Santa Quitéria","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23122040] SECRETARIA DE OBRAS E URBANISMO - SEOURB","Água; Res Sólidos","Não","Não",43359,22570
+231230,"São Benedito","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23123040] PREFEITURA MUNICIPAL DE SÃO BENEDITO - SEINFRA","Água e Esgoto; Res Sólidos","Não","Sim",46171,25662
+231250,"São João do Jaguaribe","CE",2015,"","","","",7721,3097
+231270,"Senador Pompeu","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",26547,15752
+231290,"Sobral","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23129011] Serviço de Água e Esgoto de Sobral - SAAE; [23129040] Prefeitura Municipal de Sobral - PMS","Água; Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",201756,178258
+231300,"Solonópole","CE",2015,"[23130011] Prefeitura Municipal de Solonópole - PMS; [23130040] Prefeitura Municipal de Solonópole - PMS","Água; Res Sólidos","Abastecimento de Água","Sim",18094,9327
+231310,"Tabuleiro do Norte","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água e Esgoto","","",30263,19488
+231320,"Tamboril","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",25597,14283
+231325,"Tarrafas","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23132540] Prefeitura Municipal - PM","Água e Esgoto; Res Sólidos","Não","Não",8899,2621
+231330,"Tauá","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23133040] Secretaria de InfraEstrutura e Desenvolvimento Urbano - SEINFRA","Água e Esgoto; Res Sólidos","Não","Não",57701,33408
+231335,"Tejuçuoca","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",18510,6969
+231340,"Tianguá","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23134040] Prefeitura Municipal de tianguá - PM","Água e Esgoto; Res Sólidos","Não","Não",73468,48862
+231360,"Ubajara","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23136040] Prefeitura Municipal - PM","Água; Res Sólidos","Não","Não",33792,16318
+231370,"Umari","CE",2015,"[23137011] Prefeitura Municipal de Umari - PMU; [23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23137040] PREFEITURA MUNICIPAL DE UMARI - PMU","Esgoto; Água; Res Sólidos","Não","Não",7665,3980
+231375,"Umirim","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23137540] secretaria de infraestrutura - seinfra","Água; Res Sólidos","Não","Não",19521,11515
+231380,"Uruburetama","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE","Água","","",21206,15760
+231395,"Varjota","CE",2015,"[23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23139540] SECRETARIA DE OBRAS E SERVIÇOS PÚBLICOS - SEOSP","Água; Res Sólidos","Não","Não",18136,14861
+231400,"Várzea Alegre","CE",2015,"[23140011] Prefeitura Municipal de Várzea Alegre - PMVA; [23044000] Companhia de Água e Esgoto do Ceará - CAGECE; [23140040] Prefeitura Municipal de Várzea Alegre - PMVA","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",40062,24908
+240010,"Acari","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24001040] PREFEITURA MUNICIPAL DE ACARI - PMA","Água e Esgoto; Res Sólidos","Não","Não",11344,9151
+240020,"Açu","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24002040] Secretaria Adjunta de Serviços Públicos - SERVIP","Água; Res Sólidos","Não","Não",57292,42365
+240030,"Afonso Bezerra","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24003040] SECRETARIA DE OBRAS E SERVIÇOS URBANOS - SOSUR","Água e Esgoto; Res Sólidos","Não","Não",11202,5949
+240040,"Água Nova","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24004040] SECRETARIA MUNICIPAL DE INFRA - ESTRUTUTA E SERVIÇOS URBANOS - SEMISU","Água; Res Sólidos","Não","Não",3210,2055
+240050,"Alexandria","RN",2015,"[24005011] Serviço Autônomo de Água e Esgoto de Alexandria - SAAE","Água e Esgoto","","",13852,9424
+240060,"Almino Afonso","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24006040] PREFEITURA MUNICIPAL DE ALMINO AFONSO - PMAA","Água; Res Sólidos","Não","Não",4899,3499
+240070,"Alto do Rodrigues","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24007040] Prefeitura Municipal - PM","Água e Esgoto; Res Sólidos","Não","Não",13915,10034
+240080,"Angicos","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",11907,10398
+240090,"Antônio Martins","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24009040] PREFEITURA MUNICIPAL DE ANTONIO MARTINS - PMAA","Água e Esgoto; Res Sólidos","Não","Não",7205,3947
+240100,"Apodi","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24010040] PREFEITURA MUNICIPAL DE APODI - PMA","Água; Res Sólidos","Não","Não",36189,18250
+240110,"Areia Branca","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24011040] Prefeitura Municipal de Areia Branca - PMAB","Água; Res Sólidos","Não","Não",27356,21955
+240130,"Augusto Severo","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24013040] Prefeitural Municipal de Campo Grande - PMAS","Água; Res Sólidos","Abastecimento de Água","Não",9716,5232
+240145,"Baraúna","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",27238,17132
+240150,"Barcelona","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24015040] Secretaria Municipal de Servios Urbanos. Obras e Viao - SMSUOV","Água; Res Sólidos","Não","Não",4066,1808
+240160,"Bento Fernandes","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24016040] SECRETARIA MUNICIPAL DE OBRAS TRANSPORTES E SERVIÇOS URBANOS - SMOTS","Água; Res Sólidos","Esgotamento Sanitário","Não",5458,2206
+240165,"Bodó","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24016540] Prefeitura Municipal de Bodó - RN","Água; Res Sólidos","Não","Não",2358,1355
+240170,"Bom Jesus","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",10114,7251
+240180,"Brejinho","RN",2015,"[24018011] Serviço Autônomo de Água e Esgoto - SAAE; [24018040] PREFEITURA MUNICIPAL DE BREJINHO - PMB","Água; Res Sólidos","Abast Água e Esg Sanitário","Não",12509,9644
+240185,"Caiçara do Norte","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",6587,6453
+240190,"Caiçara do Rio do Vento","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água e Esgoto","","",3608,2755
+240200,"Caicó","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24020040] PREFEITURA MUNICIPAL DE CAICÓ - RN","Água e Esgoto; Res Sólidos","Não","Não",67259,61630
+240210,"Campo Redondo","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água e Esgoto","","",11066,5602
+240230,"Caraúbas","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",20564,14396
+240240,"Carnaúba dos Dantas","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24024040] PREFEITURA MUNICIPAL DE CARNAÚBA DOS DANTAS - PMCD","Água; Res Sólidos","Não","Não",8045,6528
+240250,"Carnaubais","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água e Esgoto","","",10760,5243
+240270,"Cerro Corá","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",11318,4917
+240280,"Coronel Ezequiel","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24028040] Prefeitura Municipal de Coronel Ezequiel - PMCE","Água; Res Sólidos","Não","Não",5587,2350
+240290,"Coronel João Pessoa","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24029040] CONSTRUTORA SERRA NOVA - CSN","Água; Res Sólidos","Não","Não",4963,1848
+240300,"Cruzeta","RN",2015,"[24030011] Prefeitura Municipal de Cruzeta - PMC; [24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24030040] Secretaria Municipal de Infraestrutura. Serviços Urbano - SMISU","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",8164,6682
+240310,"Currais Novos","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água e Esgoto","","",44887,39757
+240320,"Doutor Severiano","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água e Esgoto","","",7184,3080
+240330,"Encanto","RN",2015,"[24033011] Prefeitura Municipal de Encanto - PME; [24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24033040] PREFEITURA MUNICIPAL  DE ENCANTO - PME","Esgoto; Água; Res Sólidos","Não","Não",5593,2277
+240340,"Equador","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",6087,5029
+240370,"Felipe Guerra","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",6013,4064
+240375,"Fernando Pedroza","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",3037,2593
+240380,"Florânia","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água e Esgoto","","",9254,7083
+240390,"Francisco Dantas","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",2909,1667
+240400,"Frutuoso Gomes","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24040040] PREFEITURA MUNICIPAL DE FRUTUOSO GOMES - PMFG","Água; Res Sólidos","Abast Água e Esg Sanitário","Não",4228,2809
+240410,"Galinhos","RN",2015,"[24041040] Prefeitura Municipal de Galinhos - PMG","Res Sólidos","Não","Não",2584,1482
+240430,"Governador Dix-Sept Rosado","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",13048,7177
+240440,"Grossos","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",10197,7642
+240450,"Guamaré","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24045040] SECRETARIA MUNICIPAL DE OBRAS E SERVIÇOS URBANOS - SEMOSU","Água; Res Sólidos","Não","Não",14633,5199
+240460,"Ielmo Marinho","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24046040] Secretaria de Obras e Serviços Urbanos - SEMO","Água; Res Sólidos","Não","Não",13400,1702
+240470,"Ipanguaçu","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24047040] Prefeitura Municipal de Ipanguaçu - PMI","Água; Res Sólidos","Não","Não",15147,5885
+240480,"Ipueira","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24048040] PREFEITURA MUNICIPAL DE IPUEIRA - PMI","Água; Res Sólidos","Não","Sim",2221,2020
+240485,"Itajá","RN",2015,"","","","",7457,6133
+240490,"Itaú","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",5878,5059
+240500,"Jaçanã","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24050040] Prefeitura Municipal de Jaçana - PMJ","Água; Res Sólidos","Não","Não",8827,5940
+240510,"Jandaíra","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",6898,4010
+240520,"Janduís","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",5419,4047
+240530,"Januário Cicco","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",9879,3518
+240540,"Japi","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",5366,3991
+240550,"Jardim de Angicos","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",2669,443
+240560,"Jardim de Piranhas","RN",2015,"[24056011] Prefeitura Municipal de Jardim de Piranhas - PMJP; [24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24056040] MUNICÍPIO DE JARDIM DE PIRANHAS - PMJP","Esgoto; Água; Res Sólidos","Não","Não",14606,11459
+240570,"Jardim do Seridó","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24057040] Prefeitura Municipal de Jardim do Seridó - PMJS","Água; Res Sólidos","Não","Sim",12553,10192
+240580,"João Câmara","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24058040] PREFEITURA MUNICIPAL DE JOÃO CAMARA - PMJC","Água e Esgoto; Res Sólidos","Não","Não",34585,24315
+240590,"João Dias","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24059040] Prefeitura Municipal de João Dias - PMJD","Água; Res Sólidos","Não","Não",2691,1206
+240600,"José da Penha","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água e Esgoto","","",6049,3651
+240610,"Jucurutu","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24061040] Secretária de Serviços Urbanos - SSU","Água e Esgoto; Res Sólidos","Não","Não",18450,11020
+240620,"Lagoa d Anta","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",6692,4279
+240630,"Lagoa de Pedras","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24063040] SECRETARIA MUNICIPAL DE AGRICULTURA E MEIO AMBIENTE - SMAMA","Água; Res Sólidos","Não","Sim",7478,2394
+240640,"Lagoa de Velhos","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",2765,1858
+240650,"Lagoa Nova","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24065040] PREFEITURA MUNICIPAL DE LAGOA NOVA - PMLN","Água e Esgoto; Res Sólidos","Não","Não",15274,7429
+240660,"Lagoa Salgada","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",8142,5387
+240670,"Lajes","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24067040] Secretaria de Obras e Serviços Urbanos - SEMOS","Água e Esgoto; Res Sólidos","Não","Não",11151,8666
+240680,"Lajes Pintadas","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água e Esgoto","","",4803,2489
+240690,"Lucrécia","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24069040] PREFEITURA MUNICIPAL DE LUCRECIA - PML","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",3933,2468
+240700,"Luís Gomes","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",10129,7047
+240710,"Macaíba","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24071040] PREFEITURA MUNICIPAL DE MACAÍBA - PMM","Água e Esgoto; Res Sólidos","Não","Não",78021,47880
+240720,"Macau","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24072040] Prefeitura Municipal - PM","Água e Esgoto; Res Sólidos","Não","Não",31318,23759
+240725,"Major Sales","RN",2015,"[24072540] Prefeitura Municipal de Major Sales - PMMS","Res Sólidos","Abast Água e Esg Sanitário","Não",3906,3203
+240730,"Marcelino Vieira","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24073040] Prefeitura Municipal de Marcelino Vieira - PMMV","Água; Res Sólidos","Não","Não",8499,5033
+240740,"Martins","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24074040] Prefeitura Municipal de Martins - PMM","Água; Res Sólidos","Não","Não",8706,5335
+240760,"Messias Targino","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",4530,3935
+240780,"Monte Alegre","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água e Esgoto","","",22155,9642
+240790,"Monte das Gameleiras","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",2219,1259
+240800,"Mossoró","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24080040] SECRETARIA DE SERVIÇOS URBANOS - SEMSUR","Água e Esgoto; Res Sólidos","Não","Não",288162,263125
+240830,"Nova Cruz","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24083040] PREFEITURA MUNICIPAL DE NOVA CRUZ - PMNC","Água e Esgoto; Res Sólidos","Não","Não",37395,25689
+240840,"Olho-D ÁGUA do Borges","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",4370,3297
+240850,"Ouro Branco","RN",2015,"[24085011] Prefeitura Municipal de Ouro Branco - pmob; [24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24085040] Municipio de Ouro Branco - PMOB","Esgoto; Água; Res Sólidos","Abast Água e Esg Sanitário","Não",4871,3377
+240860,"Paraná","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24086040] Prefeitura Municipal de Paraná - PMP","Água; Res Sólidos","Não","Não",4222,877
+240870,"Paraú","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24087040] SECRETARIA MUNICIPAL DE URBANISMO. OBRAS E TRANSPORTES - SMUOT","Água; Res Sólidos","Não","Não",3891,3363
+240880,"Parazinho","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",5173,3349
+240890,"Parelhas","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24089040] PREFEITURA MUNICIPAL DE PARELHAS - PMPARELHAS","Água e Esgoto; Res Sólidos","Esgotamento Sanitário","Não",21483,18032
+240910,"Passa e Fica","RN",2015,"[24091011] Prefeitura Municipal de Passa e Fica - PMPeF; [24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24091040] PREFEITURA MUNICIPAL DE PASSA E FICA - PMPF","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",12655,7701
+240920,"Passagem","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",3075,1265
+240930,"Patu","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",12706,10789
+240933,"Santa Maria","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",5341,3422
+240940,"Pau dos Ferros","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24094040] Prefeitura Municipal de Pau dos Ferros - PMPF","Água e Esgoto; Res Sólidos","Não","Não",29954,27585
+240950,"Pedra Grande","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24095040] Secretaria Municipal de Obras e Servços Urbanos - SEMOSURB","Água; Res Sólidos","Não","Não",3429,1131
+240960,"Pedra Preta","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",2568,982
+240970,"Pedro Avelino","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água e Esgoto","","",7059,4056
+240990,"Pendências","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água e Esgoto","","",14751,11612
+241000,"Pilões","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24100040] Prefeitura Municipal de Pilões-RN - PMP","Água; Res Sólidos","Abastecimento de Água","Não",3761,2759
+241010,"Poço Branco","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",15139,8050
+241020,"Portalegre","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24102040] Prefeitura Municipal de Portalegre - PMP","Água; Res Sólidos","Não","Não",7811,4101
+241025,"Porto do Mangue","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24102540] PREFEITURA MUNICIPAL - PMPM","Água; Res Sólidos","Abastecimento de Água","Não",5884,3414
+241030,"Presidente Juscelino","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",9814,5947
+241040,"Pureza","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",9331,3319
+241050,"Rafael Fernandes","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24105040] Prefeitura Municipal de Rafael Fernandes - PMRF","Água; Res Sólidos","Não","Não",5040,2910
+241060,"Rafael Godeiro","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",3213,2028
+241070,"Riacho da Cruz","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",3485,2944
+241080,"Riacho de Santana","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24108040] PREFEITURA MUNICIPAL DE RIACHO DE SANTANA - PMRS","Água; Res Sólidos","Abast Água e Esg Sanitário","Não",4278,1760
+241090,"Riachuelo","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água e Esgoto","","",7863,4831
+241100,"Rodolfo Fernandes","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",4547,3843
+241105,"Tibau","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",4019,3090
+241110,"Ruy Barbosa","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",3678,1776
+241120,"Santa Cruz","RN",2015,"[24112011] Serviço Autônomo de Água e Esgoto - SAAE; [24112040] Prefeitura Municipal de Santa Cruz - RN - PMSC","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",38924,33163
+241140,"Santana do Matos","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",13605,6793
+241142,"Santana do Seridó","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24114240] SECRETARIA MUNICIPAL DE INFRA ESTRUTURA - SMIE","Água e Esgoto; Res Sólidos","Não","Não",2675,1751
+241150,"Santo Antônio","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24115040] PREFEITURA MUNICIPAL DE SANTO ANTONIO/RN - PFMSA","Água e Esgoto; Res Sólidos","Não","Não",23865,15340
+241160,"São Bento do Norte","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",2905,1014
+241170,"São Bento do Trairí","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24117040] Prefeitura Municipal de São Bento doTrairi - RN","Água e Esgoto; Res Sólidos","Não","Não",4318,2083
+241180,"São Fernando","RN",2015,"[24118011] Prefeitura Municipal de São Fernando - PMSF; [24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Esgoto; Água","","",3587,2423
+241190,"São Francisco do Oeste","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24119040] Prefeitura Municipal de São Francisco do Oeste - PMSFO","Água; Res Sólidos","Não","Sim",4173,3176
+241210,"São João do Sabugi","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24121040] Secretaria Municipal de Infraestrutura e Serviços Urbanos - SMIS","Água; Res Sólidos","Não","Não",6218,4994
+241230,"São José do Campestre","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",12933,10752
+241240,"São José do Seridó","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água e Esgoto","","",4567,3564
+241250,"São Miguel","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24125040] Prefeitura Municipal de São Miguel - PMSM","Água; Res Sólidos","Não","Não",23274,15231
+241255,"São Miguel do Gostoso","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",9427,4492
+241260,"São Paulo do Potengi","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água e Esgoto","","",17239,12478
+241270,"São Pedro","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",6216,3483
+241280,"São Rafael","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água e Esgoto","","",8347,5699
+241290,"São Tomé","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água e Esgoto","","",11205,6148
+241300,"São Vicente","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",6400,3997
+241310,"Senador Elói de Souza","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",6087,2616
+241330,"Serra de São Bento","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",5883,3342
+241335,"Serra do Mel","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",11507,3018
+241340,"Serra Negra do Norte","RN",2015,"[24134011] Prefeitura Municipal de Serra Negra do Norte - PMSNN; [24134040] Secretaria Municipal de Infraestrutura e Serviços Públicos - SMISP","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",8130,5229
+241350,"Serrinha","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24135040] Prefeitura Municipal de Serrinha - PMS","Água; Res Sólidos","Não","Não",6518,2101
+241355,"Serrinha dos Pintos","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",4797,2540
+241360,"Severiano Melo","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",3893,1433
+241370,"Sítio Novo","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",5433,2587
+241380,"Taboleiro Grande","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24138040] SECRETARIA MUNICIPAL DE OBRAS E URBANISMO - SMOU","Água; Res Sólidos","Esgotamento Sanitário","Sim",2518,2051
+241390,"Taipu","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",12366,4267
+241400,"Tangará","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",15529,10664
+241410,"Tenente Ananias","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24141040] Prefeitura Municipal - PM","Água; Res Sólidos","Não","Sim",10646,7352
+241415,"Tenente Laurentino Cruz","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",5757,1227
+241430,"Timbaúba dos Batistas","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",2418,1821
+241440,"Touros","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",33506,8538
+241445,"Triunfo Potiguar","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",3366,2196
+241450,"Umarizal","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",10835,9219
+241460,"Upanema","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24146040] PREFEITURA MUNICIPAL DE UPANEMA - PMU","Água; Res Sólidos","Não","Não",14282,6923
+241470,"Várzea","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24147040] Prefeitura Municipal de Várzea - PMV","Água; Res Sólidos","Não","Não",5512,4549
+241475,"Venha-Ver","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24147540] PREFEITURA MUNICIPAL DE VENHA-VER - PMVV","Água; Res Sólidos","Não","Não",4121,1293
+241480,"Vera Cruz","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN","Água","","",12016,5263
+241490,"Viçosa","RN",2015,"[24081000] Companhia de Águas e Esgotos do Rio Grande do Norte - CAERN; [24149040] PREFEITURA MUNICIPAL DE VIÇOSA - PMV","Água; Res Sólidos","Não","Não",1714,1632
+250010,"Água Branca","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",10083,4333
+250020,"Aguiar","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25002040] Prefeitura Municipal de Aguiar - PMA","Água; Res Sólidos","Não","Não",5573,2722
+250053,"Alcantil","PB",2015,"[25005311] Prefeitura Municipal de Alcantil - PMA; [25005340] Secretaria de Infraestrutura - SIE","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",5451,2148
+250057,"Algodão de Jandaíra","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",2475,1288
+250070,"São João do Rio do Peixe","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25007040] Prefeitura Municipal de São João do Rio do Peixe-PB - PMSJRP","Água; Res Sólidos","Não","Não",17929,6782
+250073,"Amparo","PB",2015,"[25007311] Prefeitura Municipal de Amparo - PMA; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Esgoto; Água","","",2212,1125
+250077,"Aparecida","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25007740] Prefeitura Municpal de Aparecida - PMA","Água; Res Sólidos","Não","Não",8263,3916
+250090,"Arara","PB",2015,"[25009011] Prefeitura Municipal de Arara - PMA; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25009040] Prefeitura Municipal de Arara - PMA","Esgoto; Água; Res Sólidos","Não","Não",13355,9419
+250100,"Araruna","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25010040] PREFEITURA MUNICIPAL DE ARARUNA - PMA","Água e Esgoto; Res Sólidos","Não","Não",20051,9907
+250115,"Areia de Baraúnas","PB",2015,"[25011511] Prefeitura Municipal de Areia de Baraunas - PMAB; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25011540] Prefeitura Municipal de Areia de Baraúnas - PMAB","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",1880,992
+250120,"Areial","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25012040] Prefeitura Municipal - PMA","Água; Res Sólidos","Esgotamento Sanitário","Não",6900,4906
+250130,"Aroeiras","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25013040] Prefeitura Municipal de Aroeiras - PMA","Água; Res Sólidos","Não","Não",19204,9592
+250135,"Assunção","PB",2015,"[25013540] PREFEITURA MUNICIPAL DE ASSUNÇÃO - PMA","Res Sólidos","Não","Não",3830,3095
+250150,"Bananeiras","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",21235,8424
+250153,"Baraúna","PB",2015,"[25015340] PREFEITURA MUNICIPAL DE BARAÚNA - PMB","Res Sólidos","Abast Água e Esg Sanitário","Não",4758,3593
+250157,"Barra de Santana","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25015740] Prefeitura Municipal de Barra de Santana - PMBS","Água; Res Sólidos","Não","Não",8249,735
+250160,"Barra de Santa Rosa","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",15145,8511
+250170,"Barra de São Miguel","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25017040] PREFEITURA MUNICIPAL DE BARRA DE SÃO MIGUEL - PMBSM","Água; Res Sólidos","Não","Não",5905,2488
+250200,"Belém do Brejo do Cruz","PB",2015,"[25020011] Prefeitura Municipal de Belém do Brejo do Cruz - PMBBC; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25020040] PREFEITURA MUNICIPAL DE BELÉM DO BREJO DO CRUZ - PMBBC","Esgoto; Água; Res Sólidos","Não","Não",7320,5390
+250205,"Bernardino Batista","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",3356,936
+250210,"Boa Ventura","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25021040] prefeitura municipal de boa ventura - PMBV","Água; Res Sólidos","Abastecimento de Água","Não",5473,3352
+250215,"Boa Vista","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25021540] PREFEITURA MUNICIPAL DE BOA VISTA - PMBV","Água; Res Sólidos","Esgotamento Sanitário","Não",6884,3546
+250220,"Bom Jesus","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25022040] Prefeitura Municipal de Bom Jesus - PMBJ","Água; Res Sólidos","Não","Sim",2532,1042
+250230,"Bom Sucesso","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25023040] SECRETARIA DE INFRAESTRUTURA - SIE","Água; Res Sólidos","Não","Não",5007,2019
+250240,"Bonito de Santa Fé","PB",2015,"[25024011] Prefeitura Municipal de Bonito de Santa Fé - PMBSF; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25024040] Prefeitura Municipal de Bonito de Santa Fé - PMBSF","Esgoto; Água; Res Sólidos","Não","Não",11684,8002
+250250,"Boqueirão","PB",2015,"[25025011] Prefeitura Municipal de Boqueirão - PMB; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25025040] Prefeitura Municipal de Boqueirão - PMB","Esgoto; Água; Res Sólidos","Não","Não",17670,12562
+250260,"Igaracy","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25026040] Secretaria de Infraestrutura - Sec Infraest","Água; Res Sólidos","Esgotamento Sanitário","Não",6191,4144
+250280,"Brejo do Cruz","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",13900,10484
+250290,"Brejo dos Santos","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",6413,4795
+250310,"Cabaceiras","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",5449,2399
+250330,"Cachoeira dos Índios","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25033040] Prefeitura Municipal de Cachoeira Dos Índios - PMCÍ","Água; Res Sólidos","Não","Não",10114,3605
+250340,"Cacimba de Areia","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25034040] Prefeitura Municipal de Cacimba de Areia - PMCA","Água; Res Sólidos","Esgotamento Sanitário","Não",3713,1747
+250350,"Cacimba de Dentro","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25035040] PREFEITURA MUNICIPAL DE CACIMBA DE DENTRO - PMCD","Água; Res Sólidos","Não","Não",17149,9377
+250355,"Cacimbas","PB",2015,"[25035511] Prefeitura Municipal de Cacimbas - PMC; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25035540] Prefeitura Municipal de Cacimbas - PMC","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Sim",7112,1713
+250360,"Caiçara","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",7293,5242
+250370,"Cajazeiras","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25037040] Secretaria Executiva de Meio Ambiente - SEMAC","Água e Esgoto; Res Sólidos","Não","Não",61431,49927
+250375,"Cajazeirinhas","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25037540] PREFEITURA MUNICIPAL DE CAJAZEIRINHAS - PMC","Água e Esgoto; Res Sólidos","Não","Não",3165,1044
+250390,"Camalaú","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25039040] Prefeitura Municipal de Camalaú/PB - PM","Água e Esgoto; Res Sólidos","Não","Não",5971,2998
+250400,"Campina Grande","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25040040] SECRETARIA DE SERVIÇOS URBANOS E MEIO AMBIENTE - SESUMA","Água e Esgoto; Res Sólidos","Não","Não",405072,386140
+250407,"Caraúbas","PB",2015,"[25040711] Prefeitura Municipal de Caraúbas - PMC; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Esgoto; Água","","",4115,1601
+250410,"Carrapateira","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25041040] PREFEITURA MUNICIPAL DE CARRAPATEIRA - PMC","Água; Res Sólidos","Não","Não",2601,1874
+250415,"Casserengue","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25041540] Prefeitura Municipal de Casserengue - PMC","Água; Res Sólidos","Não","Não",7394,3623
+250420,"Catingueira","PB",2015,"[25042011] Prefeitura Municipal de Catingueira - PMC; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25042040] Prefeitura Municipal de Catingueira - PMC","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",4920,2949
+250430,"Catolé do Rocha","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25043040] Prefeitura Municipal de Catolé do Rocha PB - PMCR","Água e Esgoto; Res Sólidos","Não","Não",30179,22376
+250435,"Caturité","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25043540] Secretaria Municipal de Infraestrutura - SEINFRA","Água; Res Sólidos","Não","Não",4779,1077
+250440,"Conceição","PB",2015,"[25044011] Prefeitura Municipal de Conceição - PMC; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25044040] Prefeitura Municipal de Conceição - PMC","Esgoto; Água; Res Sólidos","Não","Não",18860,11742
+250450,"Condado","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",6733,4665
+250470,"Congo","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25047040] PREFEITURA MUNICIPAL DE CONGO - PMC","Água; Res Sólidos","Não","Não",4780,3000
+250480,"Coremas","PB",2015,"[25048040] Prefeitura Municipal Coremas - PM","Res Sólidos","Abast Água e Esg Sanitário","Sim",15409,11615
+250485,"Coxixola","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25048540] PREFEITURA MUNICIPAL DE COXIXOLA - PMC","Água; Res Sólidos","Não","Não",1892,835
+250500,"Cubati","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água e Esgoto","","",7193,4996
+250510,"Cuité","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",20325,13696
+250530,"Curral Velho","PB",2015,"","","","",2523,1420
+250535,"Damião","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25053540] Prefeitura Municipal de Damião - PMD","Água; Res Sólidos","Não","Não",5246,2439
+250540,"Desterro","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25054040] Prefeitura Municipal de Desterro - PMD","Água; Res Sólidos","Não","Não",8253,5049
+250550,"Vista Serrana","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",3744,1691
+250560,"Diamante","PB",2015,"[25056011] Prefeitura Municipal de Diamante - PMD; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25056040] PREFEITURA MUNICIPAL DE DIAMANTE - PMD","Esgoto; Água; Res Sólidos","Não","Não",6591,3804
+250570,"Dona Inês","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25057040] SECRETARIA MUNICIPA DE INFRAESTRUTURA - SMIE","Água; Res Sólidos","Não","Não",10456,4628
+250590,"Emas","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25059040] PREFEITURA MUNICIPAL DE EMAS - PME","Água; Res Sólidos","Não","Sim",3485,2240
+250600,"Esperança","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25060040] Prefeitura Municipal de Esperança - pb","Água; Res Sólidos","Não","Não",32785,22807
+250610,"Fagundes","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25061040] PREFEITURA MUNICIPAL DE FAGUNDES - PMF","Água; Res Sólidos","Não","Não",11378,5452
+250620,"Frei Martinho","PB",2015,"[25062011] Prefeitura Municipal de Frei Martinho - PMFM; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25062040] PREFEITURA MUNICIPAL DE FREI MARTINHO - PMFM","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",2986,1840
+250625,"Gado Bravo","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",8450,916
+250650,"Gurjão","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",3376,2274
+250660,"Ibiara","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25066040] Prefeitura Municipal de Ibiara - PMI","Água; Res Sólidos","Esgotamento Sanitário","Não",5974,3651
+250670,"Imaculada","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25067040] Prefeitura Municipal de Imaculada - PMI","Água; Res Sólidos","Esgotamento Sanitário","Não",11749,5240
+250680,"Ingá","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",18042,11511
+250690,"Itabaiana","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",24565,19799
+250700,"Itaporanga","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água e Esgoto","","",24499,18622
+250720,"Itatuba","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25072040] Prefeitura Municipal de Itatuba - PMI","Água; Res Sólidos","Esgotamento Sanitário","Não",10739,6269
+250740,"Jericó","PB",2015,"[25074011] Prefeitura Municipal de Jericó - PMJ; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25074040] SECRETARIA MUNICIPAL DE SAUDE - SMS","Esgoto; Água; Res Sólidos","Não","Não",7717,4841
+250770,"Juazeirinho","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",17902,9736
+250780,"Junco do Seridó","PB",2015,"","","","",7054,4639
+250800,"Juru","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25080040] PREFEITURA MUNICIPAL DE JURU - PMJ","Água; Res Sólidos","Não","Não",9892,4388
+250810,"Lagoa","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",4687,2307
+250830,"Lagoa Seca","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25083040] Prefeitura Municipal de Lagoa seca - PMLS","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",27247,11120
+250840,"Lastro","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25084040] PREFEITURA MUNICIPAL DE LASTRO - PML","Água; Res Sólidos","Não","Não",2765,1299
+250850,"Livramento","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",7355,3852
+250855,"Logradouro","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25085540] PREFEITURA MUNICIPAL DE LOGRADOURO - PML","Água; Res Sólidos","Não","Não",4254,1859
+250870,"Mãe D Água","PB",2015,"[25087011] Prefeitura Municipal de Mãe D'Água - PMMA; [25087040] Prefeitura Municipal de Mãe D`água - PMMD","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",4026,1572
+250880,"Malta","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25088040] Prefeitura Municipal de Malta - PMM","Água; Res Sólidos","Esgotamento Sanitário","Não",5672,4957
+250900,"Manaíra","PB",2015,"[25090011] Prefeitura Municipal de Manaíra - PMM; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25090040] SECRETARIA DE INFRAESTRUTURA - SMIE","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",11066,6199
+250915,"Marizópolis","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",6522,5660
+250920,"Massaranduba","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",13654,4745
+250937,"Mato Grosso","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25093740] PREFEITURA MUNICIPAL DE MATO GROSSO - PMMG","Água; Res Sólidos","Não","Não",2869,1275
+250939,"Maturéia","PB",2015,"[25093911] Prefeitura Municipal de Maturéia - PMM; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25093940] Prefeitura Municipal de Matureia - PB - PMM","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Sim",6441,4183
+250940,"Mogeiro","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25094040] Prefeitura Municipal de Mogeiro - PMM","Água; Res Sólidos","Não","Não",13317,5952
+250950,"Montadas","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25095040] PREFEITURA MUNICIPAL DE MONTADAS - PMM","Água; Res Sólidos","Não","Não",5528,3496
+250960,"Monte Horebe","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",4759,2640
+250970,"Monteiro","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água e Esgoto","","",32774,21523
+250990,"Natuba","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25099040] PREFEITURA MUNICIPAL DE NATUBA - PMN","Água; Res Sólidos","Não","Não",10450,3594
+251000,"Nazarezinho","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",7318,3201
+251010,"Nova Floresta","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",10650,7980
+251020,"Nova Olinda","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25102040] Prefeitura Municipal de Nova Olinda - PMNO","Água; Res Sólidos","Esgotamento Sanitário","Não",5999,3189
+251030,"Nova Palmeira","PB",2015,"[25103011] Prefeitura Municipal de Nova Palmeira - PMNP; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25103040] Prefeitura Municipal de Nova Palmeira - PMNP","Esgoto; Água; Res Sólidos","Não","Não",4784,2800
+251040,"Olho D ÁGUA","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25104040] SECRETARIA MUNICIPAL DE INFRA ESTRUTURA - SMIE","Água; Res Sólidos","Não","Não",6646,3709
+251050,"Olivedos","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",3880,2035
+251060,"Ouro Velho","PB",2015,"[25106011] Prefeitura Municipal de Ouro Velho - PMOV; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25106040] Prefeitura Municipal de Ouro Velho - PMOV","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",3023,2113
+251065,"Parari","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",1795,999
+251070,"Passagem","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",2383,1183
+251080,"Patos","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25108040] Secretaria Municipal de Meio Ambiente - SEMADS","Água e Esgoto; Res Sólidos","Não","Sim",106314,102728
+251090,"Paulista","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25109040] Prefeitura Municipal de Paulista - PMP","Água; Res Sólidos","Não","Não",12216,5928
+251100,"Pedra Branca","PB",2015,"[25110011] Prefeitura Municipal de Pedra Branca - PMPB; [25110040] Prefeitura Municipal de Pedra Branca - PMPB","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",3796,2413
+251110,"Pedra Lavrada","PB",2015,"[25111011] Prefeitura Municipal de Pedra Lavrada - PMPL; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25111040] PREFEITURA MUNICIPAL DE PEDRA LAVRADA - PMPL","Esgoto; Água; Res Sólidos","Não","Não",7982,3284
+251130,"Piancó","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25113040] PREFEITURA MUNICIPAL DE PIANCÓ - PMP","Água; Res Sólidos","Esgotamento Sanitário","Não",15985,11657
+251140,"Picuí","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",18670,12418
+251200,"Pocinhos","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25120040] Prefeitura Municipal de Pocinhos - PMP","Água; Res Sólidos","Abast Água e Esg Sanitário","Não",18272,10318
+251203,"Poço Dantas","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25120340] Prefeitura Municipal de Poço Dantas - PMPD","Água; Res Sólidos","Não","Não",3778,984
+251207,"Poço de José de Moura","PB",2015,"[25120711] Prefeitura Municipal de Poço de José de Moura - PMPJM; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25120740] Prefeitura Municipal de Poço de José de Moura - PMPJM","Água; Água; Res Sólidos","Esgotamento Sanitário","Não",4245,1521
+251210,"Pombal","PB",2015,"[25121011] Prefeitura Municipal de Pombal - PMP; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25121040] Prefeitura Municipal de Pombal - PMP","Esgoto; Água; Res Sólidos","Não","Não",32712,26236
+251220,"Prata","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",4109,2606
+251230,"Princesa Isabel","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",22995,15697
+251240,"Puxinanã","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",13557,4424
+251250,"Queimadas","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25125040] Prefeitura Municipal de Queimadas - PMQ","Água e Esgoto; Res Sólidos","Não","Não",43667,23654
+251260,"Quixabá","PB",2015,"[25126011] Prefeitura Municipal de Quixabá - PMQ; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25126040] Prefeitura Municipal de Quixaba - PMQ","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",1901,708
+251270,"Remígio","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25127040] Secretaria  de Agricultura e Meio Ambiente - sama","Água; Res Sólidos","Abast Água e Esg Sanitário","Não",19149,14108
+251274,"Riachão","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25127440] Prefeitura Municipal de Riachão - PMR","Água; Res Sólidos","Não","Não",3531,2190
+251275,"Riachão do Bacamarte","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",4476,2795
+251278,"Riacho de Santo Antônio","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25127840] Prefeitura Municipal de Riacho de Santo Antônio - PMRSA","Água; Res Sólidos","Não","Não",1923,1324
+251280,"Riacho dos Cavalos","PB",2015,"[25128011] Prefeitura Municipal de Riacho dos Cavalos - PMRC; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25128040] Prefeitura Municipal de Riacho dos Cavalos - PMRC","Esgoto; Água; Res Sólidos","Não","Não",8563,4146
+251300,"Salgadinho","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25130011] Prefeitura Municipal de Salgadinho - PMS; [25130040] PREFEITURA MUNICIPAL DE SALGADINHO - PMS","Água; Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",3871,1327
+251310,"Salgado de São Félix","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25131040] SECRETARIA DE INFRAESTRUTURA - SEINFRA","Água; Res Sólidos","Não","Não",12144,5324
+251315,"Santa Cecília","PB",2015,"","","","",6583,1847
+251320,"Santa Cruz","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25132040] SECRETARIA MUNICIPAL DE INFRAESTRUTURA URBANA - SEMIU","Água; Res Sólidos","Esgotamento Sanitário","Não",6579,3038
+251330,"Santa Helena","PB",2015,"[25133011] Prefeitura Municipal de Santa Helena - PMSH; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25133040] PREFEITURA MUNICIPAL DE SANTA HELENA - PMSH","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",5917,2978
+251335,"Santa Inês","PB",2015,"[25133511] Prefeitura Municipal de Santa Inês - PMSI; [25133540] Prefeitura Municipal de Santa Inês - PMSI","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",3594,1452
+251340,"Santa Luzia","PB",2015,"[25134011] Prefeitura Municipal de Santa Luzia - PMSL; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25134040] Prefeitura Municipal de Santa Luzia - PMSL","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Sim",15278,13991
+251350,"Santana de Mangueira","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25135040] Prefeitura Municipal de Santana de Mangueira - PMSM","Água; Res Sólidos","Esgotamento Sanitário","Não",5223,2186
+251360,"Santana dos Garrotes","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25136040] Prefeitura Municipal de Santana dos Garrotes - PMSG","Água; Res Sólidos","Não","Não",7113,3657
+251365,"Joca Claudino","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",2680,861
+251380,"Santa Teresinha","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25138040] Prefeitura Municipal de Santa Teresinha - PMST","Água; Res Sólidos","Esgotamento Sanitário","Não",4592,2213
+251385,"Santo André","PB",2015,"","","","",2541,833
+251390,"São Bento","PB",2015,"[25139011] Prefeitura Municipal de São Bento - PMSB; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25139040] Prefeitura Municipal de São Bento - PMSB","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",33464,27136
+251392,"São Bentinho","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",4451,3060
+251394,"São Domingos do Cariri","PB",2015,"[25139411] Prefeitura Municipal de São Domingos do Cariri - PMSDC; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25139440] Prefeitura Municipal de São Domingos do Cariri - PMSDC","Esgoto; Água; Res Sólidos","Não","Não",2563,1095
+251396,"São Domingos de Pombal","PB",2015,"","","","",3061,1066
+251398,"São Francisco","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25139840] PREITURA MUNICIPAL DE SÃO FRANCISCO - PMSF","Água; Res Sólidos","Não","Não",3375,1367
+251400,"São João do Cariri","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",4323,2336
+251410,"São João do Tigre","PB",2015,"","","","",4432,1542
+251420,"São José da Lagoa Tapada","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25142040] PREFEITURA MUNICIPAL DE SÃO JOSÉ DA LAGOA TAPADA - PMSJLT","Água; Res Sólidos","Não","Não",7677,3365
+251430,"São José de Caiana","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",6231,2829
+251440,"São José de Espinharas","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",4684,1591
+251450,"São José de Piranhas","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25145040] Prefeitura Municipal de São José de Piranhas - PMSJP","Água; Res Sólidos","Não","Não",19956,11281
+251455,"São José de Princesa","PB",2015,"","","","",3955,652
+251460,"São José do Bonfim","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25146040] SECRETARIA MUNICIPAL DE AGRICULTURA E MEIO AMBIENTE - SEMMA","Água; Res Sólidos","Não","Não",3492,1470
+251465,"São José do Brejo do Cruz","PB",2015,"[25146511] Prefeitura Municipal de São José do Brejo do Cruz - PMSJBC; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25146540] PREFEITURA MUNICIPAL DE SÃO JOSÉ DO BREJO DO CRUZ - PMSJBC","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",1780,1013
+251470,"São José do Sabugi","PB",2015,"[25147011] Prefeitura Municipal de São José do Sabugi - PMSJS; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25147040] Secretaria de Infraestrutura do Municipio - SIM","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",4124,2652
+251480,"São José dos Cordeiros","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",3729,1537
+251490,"São Mamede","PB",2015,"[25149011] Prefeitura Municipal de São Mamede - PMSM; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25149040] Prefeitura Municipal de São Mamede - PMSM","Esgoto; Água; Res Sólidos","Não","Não",7756,5935
+251510,"São Sebastião de Lagoa de Roça","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25151040] Prefeitura Municipal de Sao Sebastiao de Lagoa de Roca - PB","Água; Res Sólidos","Não","Não",11677,4927
+251520,"São Sebastião do Umbuzeiro","PB",2015,"[25152011] Prefeitura Municipal de São Sebastião do Umbuzeiro - PMSSU; [25152040] PREFEITURA MUNICIPAL DE SÃO SEBASTIÃO DO UMBUZEIRO - PMSSU","Água e Esgoto; Res Sólidos","Não","Não",3440,2230
+251540,"Seridó","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25154040] PREFEITURA MUNICIPAL DE SÃO VICENTE DO SERIDÓ - PMSVS","Água; Res Sólidos","Não","Não",10900,4898
+251550,"Serra Branca","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",13564,8801
+251570,"Serra Grande","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25157040] Prefeitura Municipal de Serra Grande - PMSG","Água; Res Sólidos","Não","Não",3078,1837
+251600,"Solânea","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25160040] Secretária de Serviços Públicos. Transportes e Estradas - SEINFRA","Água; Res Sólidos","Não","Não",26734,19362
+251610,"Soledade","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25161040] Prefeitura Municipal de Soledade - PMS","Água; Res Sólidos","Não","Não",14714,10957
+251615,"Sossêgo","PB",2015,"","","","",3475,1735
+251620,"Sousa","PB",2015,"[25162011] Departamento de Água. Esgoto e Saneamento Ambiental de Sousa - DAESA; [25162040] Departamento de Água. Esgotos e Saneamento Ambiental de Sousa - DAESA","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",68822,54261
+251630,"Sumé","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água e Esgoto","","",16784,12788
+251640,"Tacima","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25164040] Prefeitura Municipal Tacima - PMT","Água; Res Sólidos","Não","Não",10822,4606
+251650,"Taperoá","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA","Água","","",15376,9202
+251660,"Tavares","PB",2015,"[25166011] Prefeitura Municipal de Tavares - PMT; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25166040] SECRETARIA DE OBRAS E SERVIÇOS URBANOS - SOSU","Esgoto; Água; Res Sólidos","Não","Não",14568,6834
+251670,"Teixeira","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25167040] Secretaria de Obras e Serviços Urbanos - sosu","Água; Res Sólidos","Não","Não",14974,10190
+251675,"Tenório","PB",2015,"[25167511] Prefeitura Municipal de Tenório - PMT; [25167540] Prefeitura Municipal de Tenório - PMT","Água e Esgoto; Res Sólidos","Não","Não",3011,1791
+251680,"Triunfo","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25168040] Prefeitura Municipal de Triunfo - PMT","Água; Res Sólidos","Esgotamento Sanitário","Não",9447,4415
+251690,"Uiraúna","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25169040] PREFEITURA MUNICIPAL DE UIRAÚNA - PMU","Água; Res Sólidos","Não","Não",15228,10806
+251700,"Umbuzeiro","PB",2015,"[25170011] Prefeitura Municipal de Umbuzeiro - PMU; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25170040] Prefeitura Municipal de Umbuzeiro - PMU","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",9889,4239
+251710,"Várzea","PB",2015,"[25171011] Prefeitura Municipal de Várzea - PMV; [25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25171040] Prefeitura Municipal de Várzea - PB - PMV","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",2747,2013
+251720,"Vieirópolis","PB",2015,"[25075000] Companhia de Águas e Esgotos da Paraíba - CAGEPA; [25172040] SECRETARIA DE OBRAS E SERVIÇOS PÚBLICOS - SOSP","Água; Res Sólidos","Não","Não",5295,1045
+251740,"Zabelê","PB",2015,"[25174011] Prefeitura Municipal de Zabelê - PMZ; [25174040] Prefeitura Municipal de Zabelê - PMZ","Água; Res Sólidos","Abast Água e Esg Sanitário","Não",2208,1566
+260010,"Afogados da Ingazeira","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26001040] SECRETARIA DE INFRAESTRUTURA E SERVIÇOS  PÚBLICOS - PMAI","Água; Res Sólidos","Não","Não",36709,28668
+260020,"Afrânio","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",19031,6343
+260030,"Agrestina","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",24256,18136
+260050,"Águas Belas","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26005040] SECRETARIA DE INFRAESTRUTURA - SEINFRA","Água; Res Sólidos","Não","Não",42566,25987
+260060,"Alagoinha","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26006040] Prefeitura Municipal de Alagoinha - PMA","Água; Res Sólidos","Não","Não",14341,8098
+260080,"Altinho","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",22876,13075
+260100,"Angelim","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26010040] Prefeitura Municipal de Angelim - PMA","Água; Res Sólidos","Não","Não",10882,6493
+260110,"Araripina","PE",2015,"[26011011] Prefeitura Municipal de Araripina - PMA; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26011040] Prefeitura Municipal de Araripina - PMA","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",82800,50244
+260120,"Arcoverde","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água e Esgoto","","",72625,66159
+260160,"Belém de São Francisco","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",20675,12844
+260170,"Belo Jardim","PE",2015,"[26017011] Prefeitura Municipal de Belo Jardim - PMBJ; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26017040] Prefeitura Municipal de Belo Jardim - PMBJ","Esgoto; Água; Res Sólidos","Não","Não",75462,60669
+260180,"Betânia","PE",2015,"[26018011] Prefeitura Municipal de Betania - PMB; [26116000] Companhia Pernambucana de Saneamento - COMPESA","Esgoto; Água","","",12539,3878
+260190,"Bezerros","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",60386,51197
+260200,"Bodocó","PE",2015,"[26020011] Prefeitura Municipal de Bodocó - PMB; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26020040] Prefeitura Municipal de Bodocó - PMB","Esgoto; Água; Res Sólidos","Não","Não",37317,13612
+260210,"Bom Conselho","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",47760,31256
+260220,"Bom Jardim","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",38924,15636
+260240,"Brejão","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",8989,3622
+260250,"Brejinho","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26025040] PREFEITURA MUNICIPAL DE BREJINHO - PMB","Água; Res Sólidos","Esgotamento Sanitário","Não",7464,3459
+260260,"Brejo da Madre de Deus","PE",2015,"[26026011] Prefeitura Municipal de Brejo da Madre de Deus - PMBMD; [26116000] Companhia Pernambucana de Saneamento - COMPESA","Esgoto; Água","","",49092,38165
+260280,"Buíque","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",56523,22992
+260300,"Cabrobó","PE",2015,"[26030011] Prefeitura Municipal de Cabrobó - PMC; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26030040] Secretaria de Infraestrutua Urbana - SEINFRA","Esgoto; Água; Res Sólidos","Não","Não",33247,21320
+260310,"Cachoeirinha","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",19951,16120
+260320,"Caetés","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26032040] Prefeitura Municipal de Caetés - PMC","Água; Res Sólidos","Esgotamento Sanitário","Não",28145,7964
+260330,"Calçado","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26033040] Prefeitura Municipal de Calçado - PMC","Água; Res Sólidos","Não","Não",11136,3814
+260340,"Calumbi","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",5745,2217
+260350,"Camocim de São Félix","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26035040] Prefeitura Municipal de Camocim - PMC","Água; Res Sólidos","Não","Não",18292,15322
+260370,"Canhotinho","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26037040] Prefeitura Municipal de Canhotinho - PMC","Água; Res Sólidos","Esgotamento Sanitário","Não",24837,14288
+260380,"Capoeiras","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",19997,6392
+260390,"Carnaíba","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",19318,7929
+260392,"Carnaubeira da Penha","PE",2015,"[26039211] Prefeitura Municipal de Carnaubeira da Penha - PMCP; [26039240] Prefeitura Municipal - PM","Água e Esgoto; Res Sólidos","Abastecimento de Água","Não",12603,2120
+260410,"Caruaru","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26041040] Prefeitura Municipal Caruaru - PMC","Água e Esgoto; Res Sólidos","Não","Não",347088,308156
+260415,"Casinhas","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26041540] Prefeitura Muncipal de Casinhas - PMC","Água; Res Sólidos","Abast Água e Esg Sanitário","Não",14219,1760
+260430,"Cedro","PE",2015,"[26043011] Prefeitura Municipal de Cedro - PMC; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26043040] Prefeitura Municipal de Cedro - PMC","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",11515,6721
+260450,"Chã Grande","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26045040] Prefeitura Municipal de Chã Grande - PMCG","Água; Res Sólidos","Não","Não",21274,14465
+260470,"Correntes","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",17968,10655
+260490,"Cumaru","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",13132,6144
+260500,"Cupira","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",23841,21188
+260510,"Custódia","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26051040] Prefeitura Municipal de Custódia - PMC","Água; Res Sólidos","Não","Não",36184,23210
+260515,"Dormentes","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26051540] SECRETARIA DE AGRICULTURA. INFRAESTRUTURA. RECURSOS HÍDRICOS E MEIO AMBIENTE - SEAGRIMA","Água e Esgoto; Res Sólidos","Não","Não",18321,6502
+260530,"Exu","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",31928,16453
+260560,"Flores","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",22588,9541
+260570,"Floresta","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26057040] PREFEITURA MUNICIPAL DE FLORESTA - PMF","Água; Res Sólidos","Não","Não",31809,21694
+260580,"Frei Miguelinho","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",15137,3589
+260600,"Garanhuns","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água e Esgoto","","",136949,122078
+260630,"Granito","PE",2015,"[26063011] Prefeitura Municipal de Granito - PMG; [26116000] Companhia Pernambucana de Saneamento - COMPESA","Esgoto; Água","","",7308,3388
+260640,"Gravatá","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água e Esgoto","","",81893,73246
+260650,"Iati","PE",2015,"","","","",19010,7991
+260660,"Ibimirim","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26066040] Prefeitura Municipla de Ibimirim - PMI","Água; Res Sólidos","Não","Não",28604,15807
+260670,"Ibirajuba","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26067040] Prefeitura Municipal de Ibirajuba - PMI","Água; Res Sólidos","Não","Não",7725,3220
+260690,"Iguaraci","PE",2015,"[26069011] Prefeitura Municipal de Iguaraci - PMI; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26069040] PREFEITURA MUNICIPAL DE IGUARACY - PMI","Esgoto; Água; Res Sólidos","Não","Não",12137,6296
+260700,"Inajá","PE",2015,"[26070011] Prefeitura Municipal de Inajá - PMI","Água e Esgoto","","",21932,9147
+260710,"Ingazeira","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",4556,2489
+260730,"Ipubi","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água e Esgoto","","",29721,18262
+260740,"Itacuruba","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",4754,4035
+260750,"Itaíba","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26075040] Prefeitura Municipal de Itaíba - PMI","Água; Res Sólidos","Não","Não",26412,9746
+260770,"Itapetim","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26077040] Prefeitura Municipal de Itapetim - PMI","Água; Res Sólidos","Não","Sim",13780,8365
+260800,"Jataúba","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",16858,9787
+260805,"Jatobá","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26080540] Prefeitura Municipal de Jatobá - PMJ","Água; Res Sólidos","Não","Não",14587,6354
+260810,"João Alfredo","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",32939,16093
+260825,"Jucati","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26082540] Prefeitura Municipal de Jucati - PMJ","Água; Res Sólidos","Não","Não",11202,2987
+260830,"Jupi","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",14525,8856
+260840,"Jurema","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26084040] Prefeitura Municipal de Jurema - PMJ","Água; Res Sólidos","Abastecimento de Água","Não",15171,9132
+260860,"Lagoa do Ouro","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26086040] SECRETARIA DE OBRAS E URBANISMO - SOU","Água; Res Sólidos","Não","Não",12865,6393
+260870,"Lagoa dos Gatos","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",16161,8943
+260875,"Lagoa Grande","PE",2015,"[26087511] Prefeitura Municipal de Lagoa Grande - PMLG; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26087540] PREFEITURA MUNICIPAL DE LAGOA GRANDE - PMLG/SEIMA","Esgoto; Água e Esgoto; Res Sólidos","Esgotamento Sanitário","Não",24757,11330
+260880,"Lajedo","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",39240,28277
+260915,"Manari","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",20302,4287
+260930,"Mirandiba","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26093040] Prefeitura Municipal Mirandiba - PE - PMM","Água; Res Sólidos","Não","Não",15098,7535
+260970,"Orobó","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26097040] PREFEITURA - PMO","Água; Res Sólidos","Não","Não",23663,8515
+260980,"Orocó","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",14445,5060
+260990,"Ouricuri","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26099040] PREFEITURA MUNICIPAL DE OURICURI - PMO","Água; Res Sólidos","Não","Não",67676,34276
+261010,"Palmeirina","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26101040] Prefeitura Municipal de Palmeirina - PMP","Água; Res Sólidos","Não","Não",7969,5039
+261020,"Panelas","PE",2015,"[26102011] Prefeitura Municipal de Panelas - PMP; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26102040] Prefeitura Municipal de Panelas - PMP","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",26464,14410
+261030,"Paranatama","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26103040] Prefeitura Municipal de Paranatama - PMP","Água; Res Sólidos","Não","Não",11357,2314
+261040,"Parnamirim","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26104040] Prefeitura Municipal de Parnamirim - PMP","Água; Res Sólidos","Abast Água e Esg Sanitário","Não",21193,8778
+261050,"Passira","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",28982,14117
+261080,"Pedra","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",22401,12833
+261090,"Pesqueira","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26109040] Prefeitura Municipal de Pesqueira - PMP","Água; Res Sólidos","Abast Água e Esg Sanitário","Sim",66153,47436
+261100,"Petrolândia","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26110040] Prefeitura Municipal de Petrolândia - PMP","Água; Res Sólidos","Não","Não",35342,25693
+261110,"Petrolina","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26111040] Prefeitura Municipal - PM","Água e Esgoto; Res Sólidos","Não","Não",331951,247544
+261120,"Poção","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",11265,7002
+261153,"Quixaba","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",6823,2526
+261170,"Riacho das Almas","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",20177,9226
+261200,"Sairé","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",10437,5855
+261210,"Salgadinho","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",10423,3427
+261220,"Salgueiro","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26122040] PREFEITURA MUNICIPAL DO SALGUEIRO - PMS","Água e Esgoto; Res Sólidos","Não","Não",59769,48248
+261230,"Saloá","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26123040] Prefeitura Municipal de Saloá   Secretaria Municipal de Meio Ambiente - PMS","Água; Res Sólidos","Não","Não",15742,7885
+261240,"Sanharó","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",25047,14260
+261245,"Santa Cruz","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",14857,4860
+261247,"Santa Cruz da Baixa Verde","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26124740] Prefeitura Municipal de Santa Cruz da    Baixa Verde - PMSCBV","Água; Res Sólidos","Não","Não",12375,5549
+261250,"Santa Cruz do Capibaribe","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",101485,99181
+261255,"Santa Filomena","PE",2015,"[26125511] Prefeitura Municipal de Santa Filomena - PMSF; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26125540] PREFEITURA MUNICIPAL DE SANTA FILOMENA - PGCM","Esgoto; Água; Res Sólidos","Abastecimento de Água","Não",14172,2359
+261260,"Santa Maria da Boa Vista","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",41293,15577
+261270,"Santa Maria do Cambucá","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26127040] Secretaria Municipal de Saúde - SMS","Água; Res Sólidos","Não","Não",13826,3477
+261280,"Santa Terezinha","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",11627,7274
+261300,"São Bento do Una","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",57659,30214
+261310,"São Caitano","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26131040] Prefeitura Municipal de São Caetano - PMSC","Água; Res Sólidos","Não","Não",36763,28222
+261320,"São João","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",22403,10150
+261330,"São Joaquim do Monte","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26133040] Município de São Joaquim do Monte - Prefeitura - PMSJM","Água; Res Sólidos","Não","Não",21171,14593
+261350,"São José do Belmonte","PE",2015,"[26135011] Prefeitura Municipal de São José do Belmonte - PMSJB; [26116000] Companhia Pernambucana de Saneamento - COMPESA","Esgoto; Água","","",33677,16693
+261360,"São José do Egito","PE",2015,"[26136011] Prefeitura Municipal de São José do Egito - PMSJE; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26136040] Prefeitura Municipal de São José do Egito - PMSJE","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",33365,21971
+261390,"Serra Talhada","PE",2015,"[26139011] Prefeitura Municipal de Serra Talhada - PMST; [26116000] Companhia Pernambucana de Saneamento - COMPESA","Esgoto; Água","","",84352,65235
+261400,"Serrita","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26140040] secretaria de meio ambiente de serrita - semas","Água; Res Sólidos","Não","Não",19017,6594
+261410,"Sertânia","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",35367,19425
+261430,"Moreilândia","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",11242,6906
+261440,"Solidão","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26144040] secretaria de obras e saneamento - so","Água; Res Sólidos","Esgotamento Sanitário","Não",5949,1896
+261450,"Surubim","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",63166,47536
+261460,"Tabira","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",27958,20914
+261470,"Tacaimbó","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26147040] PREFEITURA MUNICPAL DE TACAIMBÓ - PMT","Água; Res Sólidos","Não","Não",12891,7177
+261480,"Tacaratu","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",24626,10257
+261500,"Taquaritinga do Norte","PE",2015,"[26150011] Prefeitura Municipal de Taquaritinga do Norte - PMTN; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26150040] Secretaria de Obras e Urbanismo - SEURB","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",27592,19900
+261510,"Terezinha","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",7057,2996
+261520,"Terra Nova","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",10185,5504
+261540,"Toritama","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",42123,40430
+261560,"Trindade","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",29519,25391
+261570,"Triunfo","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26157040] Prefeitura Municipal de Triunfo - PMT","Água; Res Sólidos","Não","Não",15250,8073
+261580,"Tupanatinga","PE",2015,"[26158011] Prefeitura Municipal de Tupanatinga - PMT; [26116000] Companhia Pernambucana de Saneamento - COMPESA","Esgoto; Água","","",26454,9243
+261590,"Tuparetama","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",8149,6531
+261600,"Venturosa","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26160040] PREFEITURA MUNICIPAL DE VENTUROSA - PMV","Água; Res Sólidos","Não","Não",17870,11514
+261610,"Verdejante","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA","Água","","",9450,2783
+261618,"Vertente do Lério","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26161840] PREFEITURA MUNICIPAL DE VERTENTE DO LÉRIO - PMVL","Água; Res Sólidos","Não","Não",7746,1784
+261620,"Vertentes","PE",2015,"[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26162040] Prefeitura Municipal de Vertentes - PMV","Água; Res Sólidos","Não","Não",19976,14187
+270010,"Água Branca","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL; [27001040] Prefeitura Municipal de Água Branca - PMAB","Água; Res Sólidos","Não","Não",20434,5379
+270030,"Arapiraca","AL",2015,"[27003011] Prefeitura Municipal de Arapiraca - PMA; [27043000] Companhia de Saneamento de Alagoas - CASAL","Esgoto; Água","","",231053,195937
+270070,"Batalha","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL; [27007040] Prefeitura Municipal de Batalha - PMB","Água e Esgoto; Res Sólidos","Não","Não",18496,13043
+270090,"Belo Monte","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água","","",6775,1129
+270120,"Cacimbinhas","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL; [27012040] Prefeitura Municipal de Cacimbinhas - PMC","Água; Res Sólidos","Não","Não",10818,5732
+270160,"Canapi","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água","","",17976,5771
+270180,"Carneiros","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água","","",8969,5087
+270200,"Coité do Nóia","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água","","",10992,3760
+270235,"Craíbas","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água","","",24288,7861
+270240,"Delmiro Gouveia","AL",2015,"[27024011] Prefeitura Municipal de Delmiro Gouveia - PMDG; [27043000] Companhia de Saneamento de Alagoas - CASAL; [27024040] prefeitura municipal de Delmiro Gouveia - pmdg","Esgoto; Água; Res Sólidos","Não","Não",51997,37681
+270250,"Dois Riachos","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL; [27025040] Prefeitura Municipal de Dois Riachos - PMDR","Água; Res Sólidos","Não","Não",11224,5246
+270255,"Estrela de Alagoas","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água","","",18306,4275
+270290,"Girau do Ponciano","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água","","",40519,12508
+270310,"Igaci","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água","","",26041,6393
+270330,"Inhapi","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL; [27033040] PREFEITURA MUNICIPAL DE INHAPI - PMI","Água; Res Sólidos","Não","Não",18621,6970
+270340,"Jacaré dos Homens","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água","","",5429,3041
+270370,"Jaramataia","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água","","",5695,2985
+270410,"Lagoa da Canoa","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL; [27041040] Prefeitura Municipal de Lagoa da    Canoa - PMLC","Água; Res Sólidos","Não","Não",18343,9212
+270440,"Major Isidoro","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL; [27044040] PREFEITURA MUNICIPAL DE MAJOR IZIDORO - PMMI","Água; Res Sólidos","Não","Não",20047,9872
+270460,"Maravilha","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL; [27046040] SECRETARIA MUNICIPAL DE OBRAS. URBANISMO E LIMPEZA URBANA - SMOULU","Água; Res Sólidos","Não","Não",9770,4880
+270500,"Mata Grande","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água","","",25590,5879
+270530,"Minador do Negrão","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água","","",5425,2316
+270540,"Monteirópolis","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água","","",7241,2626
+270570,"Olho D ÁGUA das Flores","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água","","",21641,14866
+270580,"Olho D ÁGUA do Casado","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água","","",9298,4410
+270600,"Olivença","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água","","",11688,3319
+270610,"Ouro Branco","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL; [27061040] SECRETARIA DE OBRAS - SMOV","Água; Res Sólidos","Não","Não",11537,7274
+270620,"Palestina","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL; [27062040] Prefeitura Municipal de Palestina - PMP","Água; Res Sólidos","Não","Não",5004,3169
+270630,"Palmeira dos Índios","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL; [27063040] SECRETARIA MUNICIPAL DE URBANIZAÇÃO - SEMUR","Água e Esgoto; Res Sólidos","Não","Não",73878,54184
+270640,"Pão de Açúcar","AL",2015,"[27064011] Serviço Autônomo de Água e Esgoto - SAAE; [27043000] Companhia de Saneamento de Alagoas - CASAL","Água; Água","","",24878,11252
+270642,"Pariconha","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL; [27064240] Prefeitura Municipal de Pariconha - PMP","Água; Res Sólidos","Não","Não",10601,2888
+270710,"Piranhas","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água e Esgoto","","",24950,14279
+270720,"Poço das Trincheiras","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água","","",14493,2134
+270760,"Quebrangulo","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água e Esgoto","","",11592,6537
+270800,"Santana do Ipanema","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL; [27080040] Secretaria Municipal de Obras - SMO","Água e Esgoto; Res Sólidos","Não","Não",47820,28932
+270840,"São José da Tapera","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL","Água","","",32271,12481
+270895,"Senador Rui Palmeira","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL; [27089540] Prefeitura Municipal de Senador Rui Palmeira - PMSRP","Água; Res Sólidos","Não","Não",13909,4205
+270920,"Traipu","AL",2015,"[27043000] Companhia de Saneamento de Alagoas - CASAL; [27092040] Prefeitura Municipal de Traipu - PMT","Água; Res Sólidos","Não","Não",27798,8682
+280010,"Amparo de São Francisco","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO","Água","","",2374,1920
+280020,"Aquidabã","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO","Água","","",21312,12174
+280110,"Canhoba","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO","Água","","",4057,1537
+280120,"Canindé de São Francisco","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO","Água","","",28279,16110
+280140,"Carira","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO","Água","","",21484,11991
+280160,"Cedro de São João","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO","Água","","",5890,5265
+280190,"Cumbe","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO","Água","","",3985,2373
+280220,"Feira Nova","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO","Água","","",5573,3755
+280230,"Frei Paulo","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO; [28023040] Prefeitura Municipal de Frei Paulo - PMFP","Água; Res Sólidos","Não","Não",15047,8907
+280240,"Gararu","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO; [28024040] Prefeitura Municipal de Gararu - PMG","Água; Res Sólidos","Não","Não",11724,2911
+280260,"Gracho Cardoso","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO; [28026040] Prefeitura Municipal de Gracho Cardoso - PMGC","Água; Res Sólidos","Esgotamento Sanitário","Não",5848,2800
+280310,"Itabi","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO","Água","","",5017,2777
+280370,"Macambira","SE",2015,"[28037011] Prefeitura Municipal de Macambira - PMM; [28003000] Companhia de Saneamento de Sergipe - DESO","Esgoto; Água","","",6824,3265
+280420,"Monte Alegre de Sergipe","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO; [28042040] Prefeitura Municipal de Monte Alegre de Sergipe - PMMAS","Água; Res Sólidos","Não","Não",14853,8767
+280445,"Nossa Senhora Aparecida","SE",2015,"[28044511] Prefeitura Municipal de Nossa Senhora Aparecida - PMNSA; [28003000] Companhia de Saneamento de Sergipe - DESO; [28044540] Prefeitura Municipal de Nossa Senhora Aparecida - PMNSA","Esgoto; Água; Res Sólidos","Abast Água e Esg Sanitário","Não",8830,3586
+280450,"Nossa Senhora da Glória","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO","Água","","",35726,23765
+280460,"Nossa Senhora das Dores","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO; [28046040] Prefeitura Municipal de Nossa Senhora Das Dores - PMNSD","Água; Res Sólidos","Não","Não",26240,17109
+280470,"Nossa Senhora de Lourdes","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO","Água","","",6494,3426
+280500,"Pedra Mole","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO","Água","","",3199,1288
+280520,"Pinhão","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO","Água","","",6440,3578
+280540,"Poço Redondo","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO; [28054040] PREFEITURA MUNICIPAL DE POÇO REDONDO - PMPRE","Água; Res Sólidos","Esgotamento Sanitário","Não",33757,9333
+280550,"Poço Verde","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO; [28055040] PREFEITURAS MUNICIPAL DE POÇO VERDE - PMPV","Água; Res Sólidos","Não","Sim",23416,13115
+280560,"Porto da Folha","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO","Água","","",28492,10449
+280570,"Propriá","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO","Água","","",29655,25422
+280600,"Ribeirópolis","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO","Água","","",18362,12754
+280700,"São Miguel do Aleixo","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO","Água","","",3902,1843
+280710,"Simão Dias","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO; [28071040] Secretaria Municipal de Obras. Transporte e Serviços Públicos - SMOTSP","Água e Esgoto; Res Sólidos","Não","Não",40526,21389
+280730,"Telha","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO","Água","","",3170,1208
+280740,"Tobias Barreto","SE",2015,"[28003000] Companhia de Saneamento de Sergipe - DESO; [28074040] PREFEITURA MUNICIPAL DE TOBIAS BARRETO - PMTB","Água; Res Sólidos","Não","Não",51375,34465
+290010,"Abaíra","BA",2015,"","","","",9226,4145
+290020,"Abaré","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29002040] SECRETARIA DE OBRAS E SERVIÇO PÚBLICO - SECSP","Água e Esgoto; Res Sólidos","Não","Não",19574,10357
+290035,"Adustina","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",17153,6087
+290040,"Água Fria","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",17043,6259
+290050,"Érico Cardoso","BA",2015,"[29005011] Serviço Autônomo de Água e Esgoto - SAAE; [29005040] Prefeitura Municipal de Érico Cardoso - PM","Água; Res Sólidos","Abastecimento de Água","Não",11437,2123
+290100,"Amargosa","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29010040] PREFEITURA MUNICIPAL DE AMARGOSA - BA","Água e Esgoto; Res Sólidos","Não","Não",37807,27395
+290115,"América Dourada","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29011540] PREFEITURA MUNICIPAL DE AMERICA DOURADA - PMAD","Água; Res Sólidos","Abastecimento de Água","Não",16923,11485
+290120,"Anagé","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29012040] Prefeitura Municipal de Anagé - PMA","Água; Res Sólidos","Não","Não",20096,3878
+290130,"Andaraí","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29013040] Prefeitura Municipal de Andaraí - PMA","Água; Res Sólidos","Não","Não",13723,7641
+290135,"Andorinha","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29013540] Prefeitura Municipal de Andorinha - PMA","Água; Res Sólidos","Abastecimento de Água","Não",14791,6370
+290150,"Anguera","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",11299,4772
+290160,"Antas","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",19183,7146
+290170,"Antônio Cardoso","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",12225,3412
+290180,"Antônio Gonçalves","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",12187,6398
+290200,"Aracatu","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",14089,4037
+290210,"Araci","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29021040] Prefeitura Municipal de Araci - PMA","Água e Esgoto; Res Sólidos","Não","Não",56370,21432
+290260,"Baixa Grande","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29026040] PREFEITURA MUNICIPAL DE BAIXA GRANDE - PMBG","Água; Res Sólidos","Não","Não",21197,8811
+290265,"Banzaê","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29026540] PREFEITURA MUNICIPAL DE BANZAÊ - PMB","Água; Res Sólidos","Não","Não",13711,4691
+290270,"Barra","BA",2015,"[29027040] PREFEITURA MUNICIPAL DA BARRA - PMB","Res Sólidos","Abast Água e Esg Sanitário","Sim",54188,24659
+290280,"Barra da Estiva","BA",2015,"[29028011] Prefeitura Municipal de Barra da Estiva - PMBE; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29028040] PREFEITURA MUNICIPAL DE BARRA DA ESTIVA - BE","Água e Esgoto; Água; Res Sólidos","Abast Água e Esg Sanitário","Não",22394,10997
+290290,"Barra do Choça","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",34853,22449
+290300,"Barra do Mendes","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29030040] PREFEITURA MUNICIPAL DE BARRA DO MENDES - PMBM","Água; Res Sólidos","Não","Não",14526,6497
+290323,"Barro Alto","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",15377,7582
+290327,"Barrocas","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",15770,6329
+290350,"Belo Campo","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",18383,10360
+290360,"Biritinga","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",15799,3745
+290370,"Boa Nova","BA",2015,"[29037011] Prefeitura Municipal de Boa Nova - PMBN; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Esgoto; Água","","",14577,5490
+290380,"Boa Vista do Tupim","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",18658,6837
+290390,"Bom Jesus da Lapa","BA",2015,"[29039011] Serviço Autônomo de Água e Esgoto - SAAE","Água e Esgoto","","",69526,47204
+290395,"Bom Jesus da Serra","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29039540] PREFEITURA MUNICIPAL DE BOM JESUS DA SERRA - BA","Água; Res Sólidos","Não","Não",10554,2889
+290400,"Boninal","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",14585,4906
+290405,"Bonito","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",16873,7089
+290410,"Boquira","BA",2015,"","","","",22429,7495
+290420,"Botuporã","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",11021,4027
+290430,"Brejões","BA",2015,"[29043011] Prefeitura Municipal de Brejões - PMB; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Esgoto; Água","","",15214,5259
+290440,"Brejolândia","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",10698,1916
+290450,"Brotas de Macaúbas","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",11070,3221
+290460,"Brumado","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29046040] Prefeitura Municipal de Brumado - PMBRUMADO","Água e Esgoto; Res Sólidos","Não","Não",69255,48382
+290475,"Buritirama","BA",2015,"","","","",21549,8691
+290480,"Caatiba","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",10166,4805
+290485,"Cabaceiras do Paraguaçu","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",18978,5087
+290500,"Caculé","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",23545,14092
+290510,"Caém","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29051040] Prefeitura Municipal de Caém - PMC","Água; Res Sólidos","Não","Não",10143,3576
+290515,"Caetanos","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",15982,3856
+290520,"Caetité","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29052040] SECRETARIA MUNICIPAL DE MEIO AMBIENTE - SEMMA","Água; Res Sólidos","Não","Não",52531,31450
+290530,"Cafarnaum","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29053040] PREFEITURA MUNICIPAL CAFARNAUM - PMC","Água; Res Sólidos","Não","Não",18695,11475
+290550,"Caldeirão Grande","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",13641,4978
+290590,"Campo Alegre de Lourdes","BA",2015,"[29059011] Prefeitura Municipal de Campo Alegre de Lourdes - PMCAL; [29059040] Prefeitura Municipal Campo Alegre de Lourdes - PM","Água e Esgoto; Res Sólidos","Abastecimento de Água","Não",29938,8661
+290600,"Campo Formoso","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",72271,26974
+290620,"Canarana","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",26382,12557
+290640,"Candeal","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",9011,3521
+290660,"Candiba","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29066040] Prefeitura Municipal de Candiba - BA","Água; Res Sólidos","Não","Não",14667,8577
+290670,"Cândido Sales","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29067040] Prefeitura Municipal de Cândido Sales - PMCS","Água; Res Sólidos","Abastecimento de Água","Não",26855,18552
+290680,"Cansanção","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29068040] Prefeitura Municipal de Cansanção - PMC","Água; Res Sólidos","Não","Não",35235,11800
+290682,"Canudos","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29068240] PREFEITURA MUNICIPAL DE CANUDOS - PMC","Água; Res Sólidos","Esgotamento Sanitário","Não",17177,9497
+290685,"Capela do Alto Alegre","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",12118,5882
+290687,"Capim Grosso","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29068740] PREFEITURA MUNICIPAL DE CAPIM GROSSO - PMCG","Água e Esgoto; Res Sólidos","Não","Não",29346,24029
+290689,"Caraíbas","BA",2015,"[29068911] Prefeitura Municipal de Caraíbas - PMC; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29068940] PREFEITURA MUNICIPAL DE CARAIBAS - PMC","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",10016,2462
+290710,"Carinhanha","BA",2015,"[29071011] Serviço Autônomo de Água e Esgoto - SAAE; [29071040] PREFEITURA MUNICIPAL DE CARINHANHA - PMC","Água e Esgoto; Res Sólidos","Não","Não",29955,13283
+290720,"Casa Nova","BA",2015,"[29072011] Serviço Autônomo de Água e Esgoto - SAAE","Água e Esgoto","","",72172,41724
+290730,"Castro Alves","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29073040] PREFEITURA MUNICIPAL DE CASTRO ALVES - PMCA","Água e Esgoto; Res Sólidos","Esgotamento Sanitário","Não",27286,16845
+290755,"Caturama","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",9762,2621
+290760,"Central","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",18140,8697
+290770,"Chorrochó","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",11522,2824
+290780,"Cícero Dantas","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",34478,18921
+290790,"Cipó","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29079040] Secretaria de Agricultura. Aquicultura Meio Ambiente e Desenvolvimento Sustentavel - SEAAM","Água; Res Sólidos","Não","Não",17602,12610
+290810,"Cocos","BA",2015,"","","","",19396,9159
+290840,"Conceição do Coité","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29084040] PREFEITURA MUNICIPAL DE CONCEIÇÃO DO COITÉ - PMCC","Água e Esgoto; Res Sólidos","Não","Não",68146,39848
+290870,"Condeúba","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29087040] Prefeitura Municipal de Condeúba - PMC","Água; Res Sólidos","Não","Não",18269,8067
+290880,"Contendas do Sincorá","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29088040] Prefeitura Municipal de Contendas do Sincorá - PMCS","Água; Res Sólidos","Não","Não",4326,2131
+290900,"Cordeiros","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29090040] Prefeitura Municipal de Cordeiros - PMC","Água; Res Sólidos","Não","Não",8834,2759
+290910,"Coribe","BA",2015,"[29091011] Serviço Autônomo de Água e Esgoto - SAAE; [29091040] PREFEITURA MUNICIPAL DE CORIBE - PMC","Água; Res Sólidos","Não","Não",14976,6428
+290920,"Coronel João Sá","BA",2015,"[29092011] Prefeitura Municipal de Coronel João Sá - PMCJS; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29092040] SECRETARIA DE AGRICULTURA E MEIO AMBIENTE - SECMA","Esgoto; Água; Res Sólidos","Não","Não",17098,7056
+290950,"Cravolândia","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",5560,3507
+290960,"Crisópolis","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29096040] Prefeitura Municipal de Crisopolis - PMC","Água; Res Sólidos","Não","Não",21617,9287
+290990,"Curaçá","BA",2015,"[29099011] Serviço Autônomo de Água e Esgoto - SAAE","Água e Esgoto","","",35208,15015
+291010,"Dom Basílio","BA",2015,"","","","",12499,2467
+291030,"Elísio Medrado","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",8434,3447
+291040,"Encruzilhada","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",20331,4389
+291070,"Euclides da Cunha","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29107040] Prefeitura Municipal de Euclides da Cunha - Bahia - PMEC","Água e Esgoto; Res Sólidos","Não","Não",60666,29548
+291075,"Fátima","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",18481,7241
+291077,"Feira da Mata","BA",2015,"","","","",5914,3101
+291080,"Feira de Santana","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29108040] SESP - SECRETARIA MUNICIPAL DE SERVIÇOS PÚBLICOS - SESP","Água e Esgoto; Res Sólidos","Não","Não",617528,566489
+291085,"Filadélfia","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",17583,9476
+291125,"Gavião","BA",2015,"[29112511] Prefeitura Municipal de Gavião - pmg; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29112540] Prefeitura Municipal de Gavião - PMG","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",4712,2622
+291130,"Gentio do Ouro","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29113040] PREFEITURA MUNICIPAL DE GENTIO DO OURO - PM","Água e Esgoto; Res Sólidos","Não","Não",11423,5753
+291140,"Glória","BA",2015,"[29114011] Prefeitura Municipal de Glória - PMG; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29114040] Prefeitura Municipal de Glória - PMG","Esgoto; Água e Esgoto; Res Sólidos","Não","Não",16072,3014
+291165,"Guajeru","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29116540] Prefeitura Municipal de Guajeru - PMG","Água; Res Sólidos","Não","Não",8805,1756
+291170,"Guanambi","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29117040] SEC MUL DE INFRA ESTRUTURA - SEC INFRA","Água e Esgoto; Res Sólidos","Não","Não",85797,68092
+291185,"Heliópolis","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",13762,5663
+291190,"Iaçu","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",26178,20514
+291200,"Ibiassucê","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",10502,4912
+291220,"Ibicoara","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29122040] Prefeitura Municipal de Ibicoara - PMI","Água; Res Sólidos","Não","Não",19548,12398
+291240,"Ibipeba","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",18674,11033
+291250,"Ibipitanga","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",15296,5564
+291260,"Ibiquera","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29126040] Prefeitura Municipal de Ibiquera - PMI","Água; Res Sólidos","Não","Não",5158,2609
+291300,"Ibitiara","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",16699,3701
+291310,"Ibititá","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29131040] Prefeitura Municipal de Ibitita - BAHIA","Água; Res Sólidos","Não","Não",18727,8753
+291320,"Ibotirama","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",27655,21212
+291330,"Ichu","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",6311,4041
+291340,"Igaporã","BA",2015,"","","","",16225,8392
+291350,"Iguaí","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29135040] SECRETARIA DO MEIO AMBIENTE - SEMA","Água e Esgoto; Res Sólidos","Não","Não",27787,15761
+291370,"Inhambupe","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29137040] Secretária de Infraestrutura Serviço Público - SEINFRA","Água; Res Sólidos","Não","Não",40915,17620
+291380,"Ipecaetá","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29138040] Prefeitura Municipal de Ipecaetá - PMI","Água; Res Sólidos","Não","Não",15521,2670
+291400,"Ipirá","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29140040] secretaria de infraestrutura - seinfra","Água e Esgoto; Res Sólidos","Não","Não",62095,30354
+291410,"Ipupiara","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",10113,6512
+291420,"Irajuba","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",7472,3493
+291430,"Iramaia","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29143040] Prefeitura Municipal de Iramaia - PMI","Água; Res Sólidos","Não","Não",10487,4727
+291440,"Iraquara","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",25006,7476
+291460,"Irecê","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29146040] SECRETARIA DE INFRAESTRUTURA E SERVIÇOS PÚBLICOS - SISP","Água e Esgoto; Res Sólidos","Não","Não",73380,67656
+291470,"Itaberaba","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29147040] PREFEITURA MUNICIPAL - PMI","Água e Esgoto; Res Sólidos","Esgotamento Sanitário","Não",66310,52166
+291500,"Itaeté","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",16446,6842
+291510,"Itagi","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",13359,10451
+291535,"Itaguaçu da Bahia","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",14667,2885
+291580,"Itambé","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",23327,19901
+291640,"Itapetinga","BA",2015,"[29164011] Serviço Autônomo de Água e Esgoto - SAAE; [29164040] Prefeitura Municipal de Itapetinga - PMI","Água e Esgoto; Res Sólidos","Não","Não",76184,73956
+291650,"Itapicuru","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",35987,7446
+291670,"Itaquara","BA",2015,"[29167011] Prefeitura Municipal de Itaquara - PMI; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29167040] Prefeitura Municipal de Itaquara - PMI","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",8519,5113
+291680,"Itarantim","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",20091,16583
+291685,"Itatim","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29168540] Prefeitura Municipal de Itatim - PMI","Água; Res Sólidos","Não","Não",14763,10280
+291690,"Itiruçu","BA",2015,"[29169011] Prefeitura Municipal de Itiruçu - PMI; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29169040] Prefeitura Municipal de Itiruçu - PMI","Esgoto; Água; Res Sólidos","Não","Não",13307,9987
+291700,"Itiúba","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29170040] PREFEITURA MUNICIPAL DE ITIUBA - PMI","Água e Esgoto; Res Sólidos","Não","Não",38492,10338
+291710,"Itororó","BA",2015,"[29171011] Serviços Autônomos de Água e Esgotos - SAAE","Água e Esgoto","","",21178,19249
+291720,"Ituaçu","BA",2015,"[29172011] Prefeitura Municipal de Ituaçu - PMI; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Esgoto; Água","","",19406,7032
+291733,"Iuiú","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",11331,5493
+291740,"Jacaraci","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29174040] PREFEITURA MUNICIPAL DE JACARACI - PMJ","Água; Res Sólidos","Não","Não",15409,5557
+291750,"Jacobina","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29175040] Limpeza Pública de Jacobina - LIMPUJA","Água e Esgoto; Res Sólidos","Não","Sim",84811,59791
+291760,"Jaguaquara","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29176040] SECRETARIA DE INFRAESTRUTURA - SEINFRA","Água e Esgoto; Res Sólidos","Não","Não",55449,42230
+291770,"Jaguarari","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29177040] Prefeitura Municipal de Jaguarari - PMJ","Água e Esgoto; Res Sólidos","Esgotamento Sanitário","Não",33186,18168
+291800,"Jequié","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",161528,148268
+291810,"Jeremoabo","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29181040] SECRETARIA DO MEIO AMBIENTE E SUSTENTABILIDADE - SEMMAS","Água; Res Sólidos","Não","Não",41100,19020
+291835,"João Dourado","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29183540] Prefeitura Municipal de João Dourado - PMJD","Água; Res Sólidos","Não","Não",25141,15129
+291840,"Juazeiro","BA",2015,"[29184011] Serviço Autônomo de Água e Esgoto de Juazeiro - SAAE","Água e Esgoto","","",218324,177309
+291850,"Jussara","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",15841,10579
+291860,"Jussiape","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29186040] Secretaria Municipal de Administração - SMA","Água; Res Sólidos","Abast Água e Esg Sanitário","Não",7229,2762
+291870,"Lafaiete Coutinho","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29187040] Prefeitura Municipal de Lafaiete Coutinho - PMLC","Água; Res Sólidos","Não","Não",4020,2168
+291875,"Lagoa Real","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",15801,3184
+291900,"Lajedinho","BA",2015,"[29190011] Prefeitura Municipal de Lajedinho - PML; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29190040] PREFEITURA MUNICIPAL DE LAJEDINHO - PML","Esgoto; Água; Res Sólidos","Não","Não",3974,1257
+291905,"Lajedo do Tabocal","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",8836,5478
+291910,"Lamarão","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",9442,2059
+291915,"Lapão","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",27521,10785
+291930,"Lençóis","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29193040] SECRETARIA MUNICIPAL DE MEIO AMBIENTE - SEMMA","Água e Esgoto; Res Sólidos","Não","Não",11445,8872
+291940,"Licínio de Almeida","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29194040] prefeitura municipal - pmla","Água; Res Sólidos","Não","Não",12966,6586
+291950,"Livramento de Nossa Senhora","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",46035,22137
+291960,"Macajuba","BA",2015,"[29196011] Prefeitura Municipal de Macajuba - PMM; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29196040] PREFEITURA MUNICIPAL DE MACAJUBA - PMM","Esgoto; Água; Res Sólidos","Não","Sim",11837,7243
+291970,"Macarani","BA",2015,"[29197011] Serviço Autônomo de Água e Esgoto - SAAE","Água","","",18786,14990
+291980,"Macaúbas","BA",2015,"[29198011] Serviço Autônomo de Água e Esgoto - SAAE; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29198040] Prefeitura Municipal de Macaúbas - PMM","Água; Água; Res Sólidos","Não","Não",50262,16463
+291990,"Macururé","BA",2015,"[29199011] Prefeitura Municipal de Macururé - PMM; [29199040] Secretaria de Obra e Infraestrutura - SECINFRA","Água; Res Sólidos","Abast Água e Esg Sanitário","Não",8365,2963
+291995,"Maetinga","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29199540] Prefeitura Municipal de Maetinga - PMM","Água; Res Sólidos","Abastecimento de Água","Não",5174,2071
+292000,"Maiquinique","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",10082,7940
+292010,"Mairi","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29201040] SECRETARIA DE INFRAESTRUTURA - SINFRA","Água; Res Sólidos","Não","Não",20097,11558
+292020,"Malhada","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",17455,7149
+292030,"Malhada de Pedras","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29203040] PREFEITIRA MUNICIPAL DE MALHADA DE PEDRAS - PMMP","Água; Res Sólidos","Não","Não",8896,3397
+292040,"Manoel Vitorino","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",14488,7411
+292050,"Maracás","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29205040] Prefeitura Municipal de Maracás - PMM","Água; Res Sólidos","Não","Não",23751,17087
+292080,"Marcionílio Souza","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29208040] SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO - PMMS","Água; Res Sólidos","Não","Não",10951,5540
+292105,"Matina","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",12314,3837
+292120,"Miguel Calmon","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",27536,16710
+292130,"Milagres","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29213040] Prefeitura Municipal de Milagres - PMM","Água; Res Sólidos","Abastecimento de Água","Não",11659,8812
+292140,"Mirangaba","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",18039,8731
+292145,"Mirante","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29214540] PREFEITURA MUNICIPAL DE MIRANTE - PMM","Água; Res Sólidos","Esgotamento Sanitário","Não",9902,1705
+292150,"Monte Santo","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29215040] Prefeitura Municipal de Monte Santo - PMMS","Água; Res Sólidos","Esgotamento Sanitário","Não",54733,9250
+292160,"Morpará","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29216040] Prefeitura Municipal de Morpará - PMM","Água; Res Sólidos","Não","Não",8967,5997
+292170,"Morro do Chapéu","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29217040] Prefeitura Municipal de Morro do Chapéu - PMMC","Água e Esgoto; Res Sólidos","Não","Não",36717,21162
+292180,"Mortugaba","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29218040] Prefeitura Municipal de Mortugaba - PMM","Água; Res Sólidos","Não","Não",12477,5887
+292190,"Mucugê","BA",2015,"[29219011] Prefeitura Municipal de Mucugê - PMM; [29219040] Prefeitura Municipal de Mucugê - PMM","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",10244,4061
+292205,"Mulungu do Morro","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29220540] Secretaria Municipal de Infraestrutura e Serviços Públicos - SECINSP","Água; Res Sólidos","Não","Não",12200,5895
+292210,"Mundo Novo","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29221040] Prefeitura Municipal de Mundo Novo - PMMN","Água; Res Sólidos","Não","Não",27165,15104
+292225,"Muquém de São Francisco","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",11495,1436
+292265,"Nordestina","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29226540] PREFEITURA MUNICIPAL DE NORDESTINA - PMN","Água; Res Sólidos","Não","Não",13321,4222
+292270,"Nova Canaã","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",17082,7003
+292273,"Nova Fátima","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",8125,5423
+292280,"Nova Itarana","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29228040] PREFEITURA MUNICIPAL DE NOVA ITARANA - PMNI","Água; Res Sólidos","Não","Não",8312,3035
+292285,"Nova Redenção","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",9470,6173
+292290,"Nova Soure","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",25854,12565
+292303,"Novo Horizonte","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",12238,4019
+292305,"Novo Triunfo","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29230540] PREFEITURA MUNICIPAL - PMNT","Água; Res Sólidos","Não","Não",15993,7973
+292310,"Olindina","BA",2015,"[29231011] Prefeitura Municipal de Olindina - PMO; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29231040] SECRETARIA MUNICIPAL DE OBRAS E SERVIÇOS URBANOS - SESUR","Esgoto; Água; Res Sólidos","Não","Não",26817,13733
+292320,"Oliveira dos Brejinhos","BA",2015,"[29232011] Sistema Autônomo de Água e Esgotos - SAAE; [29232040] Prefeitura Municipal de Oliveira dos Brejinhos - PMOB","Água; Res Sólidos","Abastecimento de Água","Não",22774,6868
+292335,"Ourolândia","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",17775,6862
+292340,"Palmas de Monte Alto","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29234040] Prefeitura Municipal de Palmas de Monte Alto - PMPMA","Água; Res Sólidos","Não","Não",22416,10609
+292350,"Palmeiras","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",9130,5688
+292360,"Paramirim","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29236040] Secretaria Municipal de Infraestrutura - SMI","Água; Res Sólidos","Não","Não",22077,10543
+292370,"Paratinga","BA",2015,"[29237040] Prefeitura Municipal de Paratinga - PMP","Res Sólidos","Não","Não",32636,12063
+292380,"Paripiranga","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29238040] PREFEITURA MUNICIPAL DE PARIPIRANGA - PMP","Água; Res Sólidos","Não","Não",29878,10254
+292400,"Paulo Afonso","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",119214,102726
+292405,"Pé de Serra","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",14471,5445
+292420,"Pedro Alexandre","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",18135,2973
+292430,"Piatã","BA",2015,"","","","",18473,7820
+292440,"Pilão Arcado","BA",2015,"","","","",35428,11889
+292450,"Pindaí","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29245040] Prefeitura Municipal de Pindai - PMP","Água; Res Sólidos","Não","Não",16805,4644
+292460,"Pindobaçu","BA",2015,"","","","",21062,11763
+292465,"Pintadas","BA",2015,"[29246511] Prefeitura Municipal de Pintadas - PMP; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29246540] Prefeitura Municipal de Pintadas - PMP","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",10742,6066
+292470,"Piripá","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29247040] Prefeitura Municipal de Piripá - PMP","Água; Res Sólidos","Não","Não",12238,5931
+292480,"Piritiba","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",25027,16941
+292490,"Planaltino","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29249040] Prefeitura Municipal de Planaltino - PMP","Água; Res Sólidos","Não","Não",9473,3909
+292500,"Planalto","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29250040] Prefeitura Municipal de Planalto - PMP","Água; Res Sólidos","Não","Não",26632,16175
+292510,"Poções","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",48729,37782
+292525,"Ponto Novo","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",16168,8632
+292540,"Potiraguá","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29254040] Prefeitura Municipal de Potiraguá - PMP","Água; Res Sólidos","Não","Não",8969,6038
+292560,"Presidente Dutra","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29256040] Prefeitura Municipal de Presidente Dutra - PMPDBA","Água; Res Sólidos","Não","Não",14712,9690
+292570,"Presidente Jânio Quadros","BA",2015,"[29257011] Prefeitura Municipal de Presidente Jânio Quadros - PMPJQ; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29257040] PRESIDENTE JÂNIO QUADROS PREFEITURA - PMPJQ","Esgoto; Água; Res Sólidos","Não","Não",13178,4052
+292580,"Queimadas","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",26083,13244
+292590,"Quijingue","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29259040] SECRETARIA MUNICIPAL DE INFRAESTRUTURA. DESENVOLVIMENTO URBANO E TRANSPORTES - SEINFRA","Água; Res Sólidos","Não","Não",28655,6711
+292593,"Quixabeira","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",10033,3847
+292595,"Rafael Jambeiro","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",24349,7292
+292600,"Remanso","BA",2015,"[29260011] Serviço Autônomo de Água e Esgoto - SAAE; [29260040] PREFEITURA MUNICIPAL DE REMANSO - PMR","Água e Esgoto; Res Sólidos","Não","Não",42275,25469
+292610,"Retirolândia","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",13319,7427
+292630,"Riachão do Jacuípe","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29263040] Prefeitura Municipal de Riachão do Jacuipe - PMRJ","Água e Esgoto; Res Sólidos","Não","Não",35403,21196
+292640,"Riacho de Santana","BA",2015,"","","","",36039,15395
+292650,"Ribeira do Amparo","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",15269,2055
+292660,"Ribeira do Pombal","BA",2015,"[29266011] Prefeitura Municipal de Ribeira do Pombal - PMRP; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29266040] Prefeitura Municipal de Ribeira do Pombal - PMRP","Esgoto; Água; Res Sólidos","Abast Água e Esg Sanitário","Não",51418,32198
+292665,"Ribeirão do Largo","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",8260,4462
+292670,"Rio de Contas","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",13616,6604
+292680,"Rio do Antônio","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",15628,6322
+292690,"Rio do Pires","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29269040] Prefeitura Muinicipal de Rio do Pires - PMRP","Água; Res Sólidos","Não","Não",12084,5340
+292710,"Rodelas","BA",2015,"[29271011] Prefeitura Municipal de Rodelas - PMR; [29271040] SECRETARIA DE OBRAS E INFRAESTRUTURA - SECINFRA","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",8887,7475
+292720,"Ruy Barbosa","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",31867,23557
+292750,"Santa Bárbara","BA",2015,"[29275011] Prefeitura Municipal de Santa Bárbara - PMSB; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29275040] Prefeitura Municipal de Santa Barbara - Ba","Esgoto; Água; Res Sólidos","Não","Não",20754,9437
+292760,"Santa Brígida","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29276040] PREFEITUTA MUNICIPAL DE SANTA BRIGIDA - PMSB","Água e Esgoto; Res Sólidos","Não","Não",15100,5626
+292790,"Santa Inês","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29279040] PREFEITURA MUNICIPAL DE SANTA INES - PMSI","Água e Esgoto; Res Sólidos","Não","Não",11177,10261
+292800,"Santaluz","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",36915,22686
+292820,"Santana","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",27260,14850
+292830,"Santanópolis","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",9442,1812
+292850,"Santa Teresinha","BA",2015,"[29285011] Prefeitura Municipal de Santa Teresinha - PMST; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Esgoto; Água","","",10586,2561
+292880,"Santo Estêvão","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29288040] Secretaria de Obras. Serviços Públicos e Meio Ambiente - SEOBS","Água e Esgoto; Res Sólidos","Não","Não",53193,30763
+292895,"São Domingos","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",9877,6333
+292905,"São Félix do Coribe","BA",2015,"[29290511] Serviço Autônomo de Água e Esgoto - SAAE","Água","","",15647,12696
+292925,"São Gabriel","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29292540] PREFEITURA MUNICIPAL DE SÃO GABRIEL - PMSG","Água; Res Sólidos","Não","Não",19542,11129
+292937,"São José do Jacuípe","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",11061,7596
+292970,"Sátiro Dias","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",20320,4642
+292980,"Saúde","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",12739,7148
+292990,"Seabra","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",45202,21928
+293000,"Sebastião Laranjeiras","BA",2015,"[29300011] Prefeitura Municipal de Sebastião Laranjeiras - PMSL; [29300040] Prefeitura Municipal de Sebastião Laranjeiras - PMSL","Água; Res Sólidos","Abast Água e Esg Sanitário","Não",11528,4540
+293010,"Senhor do Bonfim","BA",2015,"[29301011] Prefeitura Municipal de Senhor do Bonfim - PMSB; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29301040] Secretaria de Infraestrutura - seinfra","Esgoto; Água e Esgoto; Res Sólidos","Não","Não",81330,62912
+293015,"Serra do Ramalho","BA",2015,"","","","",33011,6546
+293020,"Sento Sé","BA",2015,"","","","",41464,24015
+293030,"Serra Dourada","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29303040] Prefeitura Municipal de Serra Dourada - PMSD","Água; Res Sólidos","Não","Não",18389,6094
+293040,"Serra Preta","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29304040] Prefeitura Municipal de Serra Preta - PMSP","Água; Res Sólidos","Abastecimento de Água","Não",15351,6898
+293050,"Serrinha","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",83275,51192
+293060,"Serrolândia","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29306040] PREFEITURA MUNICIPAL DE SERROLANDIA - PMS","Água; Res Sólidos","Não","Não",13373,7886
+293075,"Sítio do Mato","BA",2015,"","","","",13320,7590
+293076,"Sítio do Quinto","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",11767,4833
+293077,"Sobradinho","BA",2015,"[29307711] Empresa Municipal de Serviços de Água e Esgoto - EMSAE; [29307740] Prefeitura Municipal de Sobradinho - SIESP","Água e Esgoto; Res Sólidos","Não","Não",23583,21441
+293080,"Souto Soares","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",17332,6583
+293090,"Tabocas do Brejo Velho","BA",2015,"[29309011] Prefeitura Municipal de Tabocas do Brejo Velho - PMTBV; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água; Água","","",13025,4480
+293100,"Tanhaçu","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",21282,8816
+293105,"Tanque Novo","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",17702,8031
+293110,"Tanquinho","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",8553,6100
+293130,"Tapiramutá","BA",2015,"[29313011] Prefeitura Municipal de Tapiramutá - PMT; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29313040] Secretaria Municipal de Infraestrutura - SMI","Esgoto; Água; Res Sólidos","Não","Não",17398,13467
+293150,"Teofilândia","BA",2015,"[29315011] Prefeitura Municipal de Teofilândia - PMT; [29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Esgoto; Água","","",23011,7168
+293180,"Tremedal","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",18187,4207
+293190,"Tucano","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água e Esgoto","","",55777,23365
+293200,"Uauá","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",25087,11112
+293210,"Ubaíra","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29321040] Prefeitura Municipal - UBAÍRA","Água e Esgoto; Res Sólidos","Não","Não",20782,9283
+293240,"Uibaí","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29324040] SECRETARIA MUNICIPAL DE OBRAS. TRANSPORTES E SERVIÇOS PÚBLICOS - SMO","Água; Res Sólidos","Não","Não",14483,8834
+293245,"Umburanas","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",19055,8418
+293260,"Urandi","BA",2015,"[29326040] Prefeitura Municipal de Urandi - PMU","Res Sólidos","Abastecimento de Água","Não",17301,6240
+293280,"Utinga","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29328040] Prefeitura Municipal de Utinga - PMU","Água; Res Sólidos","Abastecimento de Água","Não",19593,13811
+293300,"Valente","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29330040] Prefeitura Municipal de Valente - pmv","Água; Res Sólidos","Não","Não",27906,15324
+293305,"Várzea da Roça","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",14729,6924
+293310,"Várzea do Poço","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29331040] PREFEITURA MUNICIPAL DE VÁRZEA DO POÇO - PMVP","Água; Res Sólidos","Não","Não",9416,6294
+293315,"Várzea Nova","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29331540] Prefeitura Municipal de Várzea Nova - PMVN","Água e Esgoto; Res Sólidos","Não","Não",13470,8813
+293330,"Vitória da Conquista","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA; [29333040] SECRETARIA DE SERVIÇOS PÚBLICOS - SESEP","Água e Esgoto; Res Sólidos","Não","Não",343230,307296
+293340,"Wagner","BA",2015,"[29274000] Empresa Baiana de Águas e Saneamento SA - EMBASA","Água","","",9731,7022
+293360,"Xique-Xique","BA",2015,"[29336011] Serviço Autônomo de Água e Esgoto - SAAE; [29336040] PREFEITURA DE XIQUE-XIQUE - PMXX","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",48316,34528
+310100,"Águas Vermelhas","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31010040] Prefeitura Municipal de Águas Vermelhas - PMAV","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",13447,9451
+310170,"Almenara","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR","Água e Esgoto; Água","","",41296,33814
+310270,"Cachoeira de Pajeú","MG",2015,"[31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31027040] Prefeitura Municipal de Cachoeira de Pajeú - PMCP","Água; Res Sólidos","Não","Não",9410,4686
+310340,"Araçuaí","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31034040] Secretária Municipal de Desenvolvimento Urbano - SMDU","Água e Esgoto; Água e Esgoto; Res Sólidos","Não","Não",37270,24253
+310520,"Bandeira","MG",2015,"[31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31052040] SECRETARIA MUNICIPAL DE OBRAS. SERVIÇOS E TRANSPORTES - SMOST","Água e Esgoto; Res Sólidos","Não","Não",5019,2392
+310650,"Berilo","MG",2015,"[31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31065040] PREFEITURA MUNICIPAL DE B ERILO - PM","Água e Esgoto; Res Sólidos","Não","Não",12431,3929
+310665,"Berizal","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31066540] Prefeitura Municipal de Berizal - PMB","Água; Res Sólidos","Esgotamento Sanitário","Não",4661,2650
+310825,"Bonito de Minas","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA","Água","","",10669,2436
+311270,"Capitão Enéas","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31127040] PREFEITURA MUNICIPAL - PMCE","Água e Esgoto; Res Sólidos","Não","Não",15074,12224
+311300,"Caraí","MG",2015,"[31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31130040] Prefeitura Municipal Caraí - PMC","Água e Esgoto; Res Sólidos","Não","Não",23571,7586
+311547,"Catuti","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31154740] Prefeitura Municipal de Catuti - PMC","Água e Esgoto; Res Sólidos","Não","Não",5174,3020
+311610,"Chapada do Norte","MG",2015,"[31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR","Água","","",15657,5869
+311700,"Comercinho","MG",2015,"[31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31170040] Prefeitura Municipal - PM","Água e Esgoto; Res Sólidos","Não","Não",7835,3349
+311783,"Cônego Marinho","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31178340] Prefeitura Municipal de Cônego Marinho - PMCM","Água; Res Sólidos","Não","Não",7564,2040
+311950,"Coronel Murta","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31195040] Prefeitura Municipal de Coronel Murta - PMCM","Água e Esgoto; Água; Res Sólidos","Não","Não",9400,6901
+312030,"Cristália","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31203040] Secretária de Meio Ambiente - PMC","Água e Esgoto; Res Sólidos","Não","Não",6010,3186
+312087,"Curral de Dentro","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA","Água","","",7491,6325
+312235,"Divisa Alegre","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA","Água","","",6478,6268
+312245,"Divisópolis","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31224540] SECRETARIA MUNICIPAL DE LIMPEZA URBANA - MG","Água e Esgoto; Res Sólidos","Não","Não",10209,7284
+312430,"Espinosa","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31243040] Prefeitura Municipal - PM","Água; Res Sólidos","Não","Não",32151,18624
+312560,"Felisburgo","MG",2015,"[31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31256040] PREFEITURA MUNICIPAL DE FELISBURGO - PMF","Água e Esgoto; Res Sólidos","Não","Não",7338,5429
+312650,"Francisco Badaró","MG",2015,"[31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31265040] Prefeitura Municipal de Francisco Badaró - PMFB","Água; Res Sólidos","Abastecimento de Água","Não",10550,3285
+312670,"Francisco Sá","MG",2015,"[31267011] Serviço Autônomo de Água e Esgoto - SAAE; [31267040] Prefeitura Municipal - PMFcSa","Água e Esgoto; Res Sólidos","Não","Não",26217,15677
+312707,"Fruta de Leite","MG",2015,"[31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR","Água","","",5809,1991
+312733,"Gameleiras","MG",2015,"","","","",5255,1445
+312780,"Grão Mogol","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31278040] Prefeitura Municipal de Grão Mogol - PMGM","Água e Esgoto; Água; Res Sólidos","Não","Não",15805,5671
+312965,"Ibiracatu","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA","Água","","",6206,3149
+313065,"Indaiabira","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31306540] secretaria de obras - secretaria de obras","Água e Esgoto; Res Sólidos","Não","Não",7526,2815
+313210,"Itacarambi","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31321040] PREFEITURA MUNICIPAL DE ITACARAMBI - PMI","Água e Esgoto; Res Sólidos","Não","Não",18383,14315
+313330,"Itaobim","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31333040] PREFITURA MUNICÍPAL DE ITATOBIM - pm","Água e Esgoto; Água; Res Sólidos","Abast Água e Esg Sanitário","Não",21564,16202
+313400,"Itinga","MG",2015,"[31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31340040] PREFEITURA MUNICIPAL DE ITINGA - PM ITINGA","Água e Esgoto; Res Sólidos","Não","Não",15059,6851
+313470,"Jacinto","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR","Água e Esgoto; Água","","",12537,9502
+313505,"Jaíba","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31350540] SECRETARIA MUNICIPAL DE OBRAS - PMJ","Água e Esgoto; Res Sólidos","Não","Não",37054,19455
+313510,"Janaúba","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31351040] PREFEITURA MUNICIPAL - PMJ","Água e Esgoto; Res Sólidos","Não","Não",70886,64272
+313520,"Januária","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31352040] Prefeitura Municipal de Januária MG - PMJ","Água e Esgoto; Res Sólidos","Não","Não",68247,43079
+313535,"Japonvar","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31353540] Prefeitura Municipal de Japonvar - PMJ","Água; Res Sólidos","Não","Não",8643,3177
+313545,"Jenipapo de Minas","MG",2015,"[31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR","Água e Esgoto","","",7580,3071
+313580,"Jequitinhonha","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31358040] SECRETARIA MUNICIPAL DE OBRAS.VIAÇÃO E SERVIÇOS URBANOS - SMOVSU","Água e Esgoto; Água; Res Sólidos","Não","Não",25365,17933
+313600,"Joaíma","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR","Água e Esgoto; Água","","",15562,10700
+313650,"Jordânia","MG",2015,"[31365011] Prefeitura Municipal de Jordania - PMJ; [31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31365040] SECRETARIA MUNICIPAL DE OBRA E SERVIÇOS PUBLICOS - SEMOSP","Esgoto; Água; Res Sólidos","Esgotamento Sanitário","Não",10826,7572
+313652,"José Gonçalves de Minas","MG",2015,"[31365211] Prefeitura Municipal de José Gonçalves de Minas - PMJGM; [31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31365240] Secretaria Municipal de Transporte. Obras e Serviços Públicos - SMTOS","Esgoto; Água e Esgoto; Res Sólidos","Abastecimento de Água","Não",4643,1160
+313657,"Josenópolis","MG",2015,"[31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31365740] Prefeitura Municipal de Josenópolis - MG","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",4830,2585
+313695,"Juvenília","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA","Água e Esgoto","","",5861,4510
+313865,"Lontra","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA","Água e Esgoto","","",8938,5993
+313925,"Mamonas","MG",2015,"[31392540] Prefeitura Municipal de Mamonas - PMM","Res Sólidos","Abastecimento de Água","Não",6591,2932
+313930,"Manga","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31393040] Secretaria Municipal de Obras e Serviços Urbanos - SMOS","Água e Esgoto; Res Sólidos","Não","Não",19622,13715
+314055,"Mata Verde","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31405540] Prefeitura Municipal de Mata Verde - PMMV","Água e Esgoto; Res Sólidos","Não","Não",8425,6835
+314085,"Matias Cardoso","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA","Água","","",10822,5570
+314100,"Mato Verde","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA","Água","","",12895,9616
+314140,"Medina","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR","Água e Esgoto; Água","","",21459,15403
+314225,"Miravânia","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31422540] Prefeitura Municipal de Miravânia - PMM","Água; Res Sólidos","Não","Não",4832,1146
+314270,"Montalvânia","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31427040] Prefeitura Municipal - PMM","Água e Esgoto; Res Sólidos","Abast Água e Esg Sanitário","Não",15779,10185
+314290,"Monte Azul","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31429040] SECRETARIA MUNICIPAL DE ASSISTENCIA SOCIAL MONTE AZUL - SMAS","Água e Esgoto; Res Sólidos","Não","Não",21990,12416
+314315,"Monte Formoso","MG",2015,"[31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31431540] Secretaria Municipal de Obras Públicas - SMOP","Água e Esgoto; Res Sólidos","Não","Não",4897,1788
+314345,"Montezuma","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31434540] Secretaria Municipal de Obras e Urbanismo - SMOU","Água; Res Sólidos","Esgotamento Sanitário","Não",8041,3317
+314465,"Ninheira","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31446540] Prefeitura Municipal de Ninheira - PMN","Água; Res Sólidos","Não","Não",10301,2753
+314505,"Nova Porteirinha","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31450540] Prefeitura Municipal de Nova Porteirinha - PM","Água e Esgoto; Res Sólidos","Não","Não",7636,4200
+314530,"Novo Cruzeiro","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31453040] PREFEITURA MUNICIPAL DE NOVO CRUZEIRO - PMNC","Água e Esgoto; Água e Esgoto; Res Sólidos","Não","Não",31803,10891
+314537,"Novorizonte","MG",2015,"[31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR","Água e Esgoto","","",5255,1818
+314625,"Padre Carvalho","MG",2015,"[31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR","Água e Esgoto","","",6250,3709
+314630,"Padre Paraíso","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31463040] Prefeitura Municipal de Padre Paraíso - PMPP","Água; Res Sólidos","Esgotamento Sanitário","Não",19971,12206
+314655,"Pai Pedro","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31465540] PREFEITURA MUNICIPAL DE PAI PEDRO - PMPP","Água; Res Sólidos","Não","Não",6162,1816
+314795,"Patis","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31479540] Prefeitura Municipal de Patis - PMP","Água; Res Sólidos","Não","Não",5914,2439
+314870,"Pedra Azul","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31487040] prefeitura municipal de pedra azul - PMPA","Água e Esgoto; Res Sólidos","Não","Sim",24683,21750
+314915,"Pedras de Maria da Cruz","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31491540] Prefeitura Municipal de Pedras de Maria da Cruz - PMPMC","Água; Res Sólidos","Não","Não",11193,6867
+315217,"Ponto dos Volantes","MG",2015,"[31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR","Água","","",12016,4269
+315220,"Porteirinha","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31522040] Secretaria de Meio Ambiente e Turismo - SMATUR","Água e Esgoto; Res Sólidos","Não","Não",38720,19900
+315450,"Riacho dos Machados","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31545040] Prefeitura Municipal de Riacho Dos Machados - PMRM","Água e Esgoto; Res Sólidos","Não","Não",9658,4642
+315560,"Rio Pardo de Minas","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31556040] PREFEITURA MUNICIPAL DE RIO PARDO DE MINAS - MG - PMRPM","Água e Esgoto; Res Sólidos","Não","Não",30732,12348
+315650,"Rubelita","MG",2015,"[31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31565040] Prefeitura Municipal de Rubelita - PMR","Água e Esgoto; Res Sólidos","Não","Não",7093,2296
+315660,"Rubim","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA","Água","","",10330,8022
+315700,"Salinas","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31570040] Prefeitura Municipal de Salinas - PMS","Água e Esgoto; Água e Esgoto; Res Sólidos","Não","Não",41301,32380
+315710,"Salto da Divisa","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA","Água","","",7107,5957
+315737,"Santa Cruz de Salinas","MG",2015,"[31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31573740] PREFEITURA MUNICIPAL DE SANTA CRUZ DE SALINAS - PMSCS","Água e Esgoto; Res Sólidos","Não","Não",4383,1147
+315810,"Santa Maria do Salto","MG",2015,"[31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR","Água e Esgoto","","",5393,3819
+316045,"Santo Antônio do Retiro","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31604540] PREFEITURA MUNICIPAL DE SANTO ANTONIO DO RETIRO - PMSAR","Água e Esgoto; Res Sólidos","Não","Não",7290,1667
+316240,"São João da Ponte","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA","Água e Esgoto","","",25906,8843
+316245,"São João das Missões","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA","Água","","",12652,2642
+316270,"São João do Paraíso","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA","Água e Esgoto","","",23526,10789
+316695,"Serranópolis de Minas","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31669540] DIRETORIA TÉCNICA DE MEIO AMBIENTE - DTMA","Água; Res Sólidos","Não","Não",4712,1840
+316800,"Taiobeiras","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31680040] PREFEITUR MUNICIPAL DE TAIOBEIRAS - PMT","Água e Esgoto; Água; Res Sólidos","Não","Não",33315,27004
+317065,"Vargem Grande do Rio Pardo","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA","Água","","",4989,2552
+317090,"Varzelândia","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA","Água e Esgoto","","",19702,9177
+317103,"Verdelândia","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31710340] Prefeitura Municipal de Verdelândia - PMV","Água; Res Sólidos","Não","Não",9056,5167
+317160,"Virgem da Lapa","MG",2015,"[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa Serviços de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR","Água; Água","","",14030,7046
