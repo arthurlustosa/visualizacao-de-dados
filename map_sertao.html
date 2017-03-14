@@ -20,16 +20,58 @@
 
 		.estados {
 			stroke: red;
-			stroke-width: 1px;
+			stroke-width: 1.3px;
 			fill: none;
 
 		}
 
 		.municipio{
 			stroke: grey;
-			stroke-width: 0.8px;
+			stroke-width: 0.5px;
 
 		}
+		.municipio:hover{
+		fill-opacity:0.5;
+		}
+		
+			#tooltip {   
+		position: absolute;           
+		text-align: center;
+		padding: 20px;             
+		margin: 10px;
+		font: 12px sans-serif;        
+		background: lightsteelblue;   
+		border: 1px;      
+		border-radius: 2px;           
+		pointer-events: none;         
+	}
+	#tooltip h4{
+		margin:0;
+		font-size:14px;
+	}
+	#tooltip{
+		background:rgba(0,0,0,0.9);
+		border:1px solid grey;
+		border-radius:5px;
+		font-size:12px;
+		width:auto;
+		padding:4px;
+		color:white;
+		opacity:0;
+	}
+	#tooltip table{
+		table-layout:fixed;
+	}
+	#tooltip tr td{
+		padding:0;
+		margin:0;
+	}
+	#tooltip tr td:nth-child(1){
+		width:50px;
+	}
+	#tooltip tr td:nth-child(2){
+		text-align:center;
+	}
 
 	</style>
 </head>
@@ -71,6 +113,14 @@
 	<script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
 	<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 	<script>
+
+	function tooltipHtml(n, d){	/* function to create html content string in tooltip div. */
+		return "<h4>"+n+"</h4><table>"+
+			"<tr><td>Low</td><td>"+(d.municipio)+"</td></tr>"+
+			"<tr><td>Average</td><td>"+(d.estado)+"</td></tr>"+
+			"<tr><td>High</td><td>"+(d.populacao_total)+"</td></tr>"+
+			"</table>";
+	}
 		var
 		    width = 1000,
 		    height = 1000;
@@ -91,11 +141,12 @@
     var path = d3.geoPath().projection(projection);
 
     var infoAguaScale = d3.scaleLog();
+	var populacaoScale = d3.scaleThreshold();
 
     d3.queue()
 			.defer(d3.json,"data/dados/municipios_sab.json")
 			.defer(d3.json, "data/dados/estados_sab.json")
-			.defer(d3.csv, "data/dados/dados_snis_filtrados/info_geral.csv")
+			.defer(d3.csv, "data/dados/dados_snis_filtrados/dados_agua_semiarido_2015.csv")
 			.await(draw);
 
 	function draw(error, semiarido, estados, csv) {
@@ -104,33 +155,49 @@
 
       var estados = topojson.feature(estados, estados.objects.sab_geojson);
 
+	  console.log(tooltipHtml(4, csv));
+
+	  //desenha shape dos estados
       svg.selectAll(".estados")
         .data(estados.features)
       .enter().append("path")
         .attr("d", path)
         .attr("class", "estados");
-      console.log(csv);
 
       var municipios = topojson.feature(semiarido, semiarido.objects.municipios_sab);
 
       //console.log(municipios.features[0].properties);
 
       infoAguaScale
-      	.domain([d3.min(csv, function(d){return +d.pop_total}), d3.max(csv, function(d){return +d.pop_total})])
-      	// .range(d3.schemeBlues[9]);
+      	.domain([d3.min(csv, function(d){return +d.populacao_total}), d3.max(csv, function(d){return +d.populacao_total})])
       	.range(["white", "blue"]);
+
+	  populacaoScale
+      	.domain([5000, 10000, 30000, 50000, 100000])
+				.range([d3.rgb(8, 48, 107, 0.2), d3.rgb(8, 48, 107, 0.4), d3.rgb(8, 48, 107, 0.6), d3.rgb(8, 48, 107, 0.8), d3.rgb(8, 48, 107, 1)]);
+
+	  var tooltip = d3.select("#chart")
+		.append("div")
+		.style("position", "absolute")
+		.style("z-index", "10")
+		.style("visibility", "hidden")
+		.text("texto");
 
       svg.selectAll(".municipio")
         .data(municipios.features)
       .enter().append("path")
       	.attr("id", function(d) { var d1 = d.properties.ID.toString().substring(0, 6); return "demanda-"+d1 })
         .attr("d", path)
-        .attr("class", "municipio");
+        .attr("class", "municipio")
+		.on("mouseover", function(){return tooltip.style("visibility", "visible");})
+		.on("mousemove", function(){return tooltip.style("top", (event.pageY)+"px").style("left",(event.pageX)+"px");})
+		.on("mouseout", function(){return tooltip.style("visibility", "hidden");});
+
 
         for (var i=0; i < csv.length; i++) {
-      		console.log(csv[i].pop_total);
-        	svg.select("#demanda-"+csv[i].id)
-        		.attr("fill", infoAguaScale(+csv[i].pop_total));
+      		//console.log(csv[i].pop_total);
+        	svg.select("#demanda-"+csv[i].ID)
+        		.attr("fill", populacaoScale(+csv[i].populacao_total));
         }
 
      
