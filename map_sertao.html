@@ -33,10 +33,15 @@
 		.municipio:hover{
 		fill-opacity:0.5;
 		}
-		
-			#tooltip {   
+
+		.tooltip {
+			color: red;
+		}
+			
+		#tooltip {   
 		position: absolute;           
 		text-align: center;
+		z-index: 10;
 		padding: 20px;             
 		margin: 10px;
 		font: 12px sans-serif;        
@@ -44,34 +49,34 @@
 		border: 1px;      
 		border-radius: 2px;           
 		pointer-events: none;         
-	}
-	#tooltip h4{
-		margin:0;
-		font-size:14px;
-	}
-	#tooltip{
-		background:rgba(0,0,0,0.9);
-		border:1px solid grey;
-		border-radius:5px;
-		font-size:12px;
-		width:auto;
-		padding:4px;
-		color:white;
-		opacity:0;
-	}
-	#tooltip table{
-		table-layout:fixed;
-	}
-	#tooltip tr td{
-		padding:0;
-		margin:0;
-	}
-	#tooltip tr td:nth-child(1){
-		width:50px;
-	}
-	#tooltip tr td:nth-child(2){
-		text-align:center;
-	}
+		}
+		#tooltip h4{
+			margin:0;
+			font-size:14px;
+		}
+		#tooltip{
+			background:rgba(0,0,0,0.9);
+			border:1px solid grey;
+			border-radius:5px;
+			font-size:12px;
+			width:auto;
+			padding:4px;
+			color:white;
+			opacity:0;
+		}
+		#tooltip table{
+			table-layout:fixed;
+		}
+		#tooltip tr td{
+			padding:0;
+			margin:0;
+		}
+		#tooltip tr td:nth-child(1){
+			width:50px;
+		}
+		#tooltip tr td:nth-child(2){
+			text-align:center;
+		}
 
 	</style>
 </head>
@@ -94,6 +99,7 @@
 		</div>
 		<header>
 			<h1>Semiárido Brasileiro</h1>
+			<h3 id="label"></h3>
 		</header>
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
@@ -114,13 +120,7 @@
 	<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 	<script>
 
-	function tooltipHtml(n, d){	/* function to create html content string in tooltip div. */
-		return "<h4>"+n+"</h4><table>"+
-			"<tr><td>Low</td><td>"+(d.municipio)+"</td></tr>"+
-			"<tr><td>Average</td><td>"+(d.estado)+"</td></tr>"+
-			"<tr><td>High</td><td>"+(d.populacao_total)+"</td></tr>"+
-			"</table>";
-	}
+
 		var
 		    width = 1000,
 		    height = 1000;
@@ -155,8 +155,6 @@
 
       var estados = topojson.feature(estados, estados.objects.sab_geojson);
 
-	  console.log(tooltipHtml(4, csv));
-
 	  //desenha shape dos estados
       svg.selectAll(".estados")
         .data(estados.features)
@@ -176,12 +174,7 @@
       	.domain([5000, 10000, 30000, 50000, 100000])
 				.range([d3.rgb(8, 48, 107, 0.2), d3.rgb(8, 48, 107, 0.4), d3.rgb(8, 48, 107, 0.6), d3.rgb(8, 48, 107, 0.8), d3.rgb(8, 48, 107, 1)]);
 
-	  var tooltip = d3.select("#chart")
-		.append("div")
-		.style("position", "absolute")
-		.style("z-index", "10")
-		.style("visibility", "hidden")
-		.text("texto");
+	  var tooltip = svg.append("text").attr("class", "label");
 
       svg.selectAll(".municipio")
         .data(municipios.features)
@@ -189,16 +182,31 @@
       	.attr("id", function(d) { var d1 = d.properties.ID.toString().substring(0, 6); return "demanda-"+d1 })
         .attr("d", path)
         .attr("class", "municipio")
-		.on("mouseover", function(){return tooltip.style("visibility", "visible");})
-		.on("mousemove", function(){return tooltip.style("top", (event.pageY)+"px").style("left",(event.pageX)+"px");})
-		.on("mouseout", function(){return tooltip.style("visibility", "hidden");});
-
+		.on("mouseover", function(d) {
+					tooltip
+						.attr("x", path.centroid(d)[0])
+						.attr("y", path.centroid(d)[1])
+						.attr("transform", "translate(0, -25)")
+						.style("fill", "red")
+						.text(getRow(d.properties.ID).municipio + " \n " + getRow(d.properties.ID).populacao_total);
+						
+				});
 
         for (var i=0; i < csv.length; i++) {
       		//console.log(csv[i].pop_total);
         	svg.select("#demanda-"+csv[i].ID)
-        		.attr("fill", populacaoScale(+csv[i].populacao_total));
+        		.attr("fill", populacaoScale(+csv[i].populacao_total))
+				
         }
+
+		function getRow(id) {
+			for (var i = 0; i < csv.length; i++) {
+				if (csv[i].ID == id.toString().substring(0, 6)){
+					return csv[i];
+					break;
+				}
+			}
+		}
 
      
 
