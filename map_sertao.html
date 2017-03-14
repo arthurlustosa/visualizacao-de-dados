@@ -65,6 +65,7 @@
 
 	<!-- scripts -->
 	<script src="js/d3.v4.min.js"></script>
+
   	<script src="//d3js.org/topojson.v1.min.js"></script>
   	<script src="https://d3js.org/d3-color.v1.min.js"></script>
 	<script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
@@ -89,12 +90,12 @@
 
     var path = d3.geoPath().projection(projection);
 
-    var infoAguaScale = d3.scaleLinear();
+    var infoAguaScale = d3.scaleLog();
 
     d3.queue()
 			.defer(d3.json,"data/dados/municipios_sab.json")
 			.defer(d3.json, "data/dados/estados_sab.json")
-			.defer(d3.csv, "data/dados/dados_snis_filtrados/info_agua.csv")
+			.defer(d3.csv, "data/dados/dados_snis_filtrados/info_geral.csv")
 			.await(draw);
 
 	function draw(error, semiarido, estados, csv) {
@@ -108,25 +109,28 @@
       .enter().append("path")
         .attr("d", path)
         .attr("class", "estados");
-
+      console.log(csv);
 
       var municipios = topojson.feature(semiarido, semiarido.objects.municipios_sab);
 
-      console.log(municipios.features[0].properties);
+      //console.log(municipios.features[0].properties);
 
-      infoAguaScale.domain([d3.min(csv, function(d){return +d.abastecimento}), d3.max(csv, function(d){return +d.abastecimento})]).range(d3.schemeBlues[9]);
+      infoAguaScale
+      	.domain([d3.min(csv, function(d){return +d.pop_total}), d3.max(csv, function(d){return +d.pop_total})])
+      	// .range(d3.schemeBlues[9]);
+      	.range(["white", "blue"]);
 
       svg.selectAll(".municipio")
         .data(municipios.features)
       .enter().append("path")
-      	.attr("id", function(d) { return "demanda-"+d.properties.ID})
+      	.attr("id", function(d) { var d1 = d.properties.ID.toString().substring(0, 6); return "demanda-"+d1 })
         .attr("d", path)
         .attr("class", "municipio");
 
-        for (var  i =0; i < csv.length; i++){
-      console.log(csv[i]);
-        	svg.select("#demanda-"+csv[i].ID)
-        		.attr("fill", infoAguaScale(+csv[i].abastecimento));
+        for (var i=0; i < csv.length; i++) {
+      		console.log(csv[i].pop_total);
+        	svg.select("#demanda-"+csv[i].id)
+        		.attr("fill", infoAguaScale(+csv[i].pop_total));
         }
 
      
