@@ -18,11 +18,18 @@
 		  text-anchor: middle;
 		}
 
+		.brasil {
+			fill: lightgrey;
+		}
+
 		.estados {
-			stroke: red;
+			stroke: white;
 			stroke-width: 1.3px;
 			fill: none;
 
+		}
+		.estados:hover{
+			fill-opacity:0.5;
 		}
 
 		.municipio{
@@ -31,17 +38,16 @@
 
 		}
 		.municipio:hover{
-		fill-opacity:0.5;
+			fill-opacity:0.5;
 		}
 
 		.tooltip {
-			color: red;
+			color: yellow;
 		}
 			
 		#tooltip {   
 		position: absolute;           
 		text-align: center;
-		z-index: 10;
 		padding: 20px;             
 		margin: 10px;
 		font: 12px sans-serif;        
@@ -99,13 +105,9 @@
 		</div>
 		<header>
 			<h1>Semiárido Brasileiro</h1>
-			<h3 id="label"></h3>
 		</header>
-		<div class="row">
-			<div class="col-md-8 col-md-offset-2">
-				<div id="chart"></div>
-			</div>
-		</div>
+
+		<div id="chart"></div>
 
 	</div>
 
@@ -121,11 +123,10 @@
 	<script>
 
 
-		var
-		    width = 1000,
-		    height = 1000;
+	var width = 1000,
+    	height = 900;
 
-		var svg = d3.select("#chart")
+	var svg = d3.select("#chart")
 				.append("svg")
 				.attr('version', '1.1')
 				.attr('viewBox', '0 0 '+width+' '+height)
@@ -136,7 +137,7 @@
         .center([-40.388610, -6.397366])
         .rotate([0, 0])
         .parallels([0, 0])
-        .scale(3700);
+        .scale(2500);
 
     var path = d3.geoPath().projection(projection);
 
@@ -147,21 +148,29 @@
 			.defer(d3.json,"data/dados/municipios_sab.json")
 			.defer(d3.json, "data/dados/estados_sab.json")
 			.defer(d3.csv, "data/dados/dados_snis_filtrados/dados_agua_semiarido_2015.csv")
+			.defer(d3.json, "data/br.json")
 			.await(draw);
 
-	function draw(error, semiarido, estados, csv) {
+	function draw(error, semiarido, estados, csv, brasil) {
       if (error) throw error;
 
+	  
 
       var estados = topojson.feature(estados, estados.objects.sab_geojson);
 
-	  //desenha shape dos estados
-      svg.selectAll(".estados")
-        .data(estados.features)
-      .enter().append("path")
-        .attr("d", path)
-        .attr("class", "estados");
+	  var brasil = topojson.feature(brasil, brasil.objects.estados);
+	  
 
+	// Desenhando Brasil
+	svg.selectAll(".estado")
+		.data(brasil.features)
+		.enter()
+		.append("path")
+		.attr("class", "brasil")
+		.attr("d", path);
+
+
+    
       var municipios = topojson.feature(semiarido, semiarido.objects.municipios_sab);
 
       //console.log(municipios.features[0].properties);
@@ -208,7 +217,13 @@
 			}
 		}
 
-     
+	// contorno dos estados do semiárido
+	svg.append("path")
+		.datum(estados)
+		.attr("d", path)
+		.attr("class", "estados");
+
+
 
     }
 

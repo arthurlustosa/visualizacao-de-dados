@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Box Selection</title>
+    <link rel="stylesheet" href="https://openlayers.org/en/v4.0.1/css/ol.css" type="text/css">
+    <!-- The line below is only needed for old environments like Internet Explorer and Android 4.x -->
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=requestAnimationFrame,Element.prototype.classList,URL"></script>
+    <script src="https://openlayers.org/en/v4.0.1/build/ol.js"></script>
+    <style>
+      .ol-dragbox {
+        background-color: rgba(255,255,255,0.4);
+        border-color: rgba(100,150,0,1);
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map" class="map"></div>
+    <div id="info">No countries selected</div>
+    <script>
+      var vectorSource = new ol.source.Vector({
+        url: 'https://openlayers.org/en/v4.0.1/examples/data/geojson/countries.geojson',
+        format: new ol.format.GeoJSON()
+      });
+
+
+      var map = new ol.Map({
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.OSM()
+          }),
+          new ol.layer.Vector({
+            source: vectorSource
+          })
+        ],
+        target: 'map',
+        view: new ol.View({
+          center: [0,0],
+          zoom: 4
+        })
+      });
+
+      // a normal select interaction to handle click
+      var select = new ol.interaction.Select();
+      map.addInteraction(select);
+
+      var selectedFeatures = select.getFeatures();
+
+      // a DragBox interaction used to select features by drawing boxes
+      var dragBox = new ol.interaction.DragBox({
+        condition: ol.events.condition.platformModifierKeyOnly
+      });
+
+      map.addInteraction(dragBox);
+
+      var infoBox = document.getElementById('info');
+
+    //   dragBox.on('boxend', function() {
+    //     // features that intersect the box are added to the collection of
+    //     // selected features, and their names are displayed in the "info"
+    //     // div
+    //     var info = [];
+    //     var extent = dragBox.getGeometry().getExtent();
+    //     vectorSource.forEachFeatureIntersectingExtent(extent, function(feature) {
+    //       selectedFeatures.push(feature);
+    //       info.push(feature.get('name'));
+    //     });
+    //     if (info.length > 0) {
+    //       infoBox.innerHTML = info.join(', ');
+    //     }
+    //   });
+
+      // clear selection when drawing a new box and when clicking on the map
+      dragBox.on('boxstart', function() {
+        selectedFeatures.clear();
+        infoBox.innerHTML = '&nbsp;';
+      });
+      map.on('click', function() {
+        selectedFeatures.clear();
+        infoBox.innerHTML = '&nbsp;';
+      });
+    </script>
+  </body>
+</html>
