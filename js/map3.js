@@ -25,7 +25,7 @@
     d3.queue()
 			.defer(d3.json,"data/dados/municipios_sab.json")
 			.defer(d3.json, "data/dados/estados_sab.json")
-			.defer(d3.csv, "data/dados/dados_agua_semiarido_2015.csv")
+			.defer(d3.csv, "https://raw.githubusercontent.com/arthurlustosa/visualizacao-de-dados/gh-pages/data/dados/dados_agua_semiarido_2015.csv")
 			.defer(d3.json, "data/br.json")
 			.await(draw);
 
