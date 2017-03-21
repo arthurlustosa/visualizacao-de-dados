@@ -65,7 +65,7 @@
 						.attr("y", path.centroid(d)[1])
 						.attr("transform", "translate(0, -25)")
 						.style("fill", "red")
-						.text(getRow(d.properties.ID).municipio);
+						.text(getRow(d.properties.ID).municipio + " - Populacao: " + getRow(d.properties.ID).populacao_total);
 						
 				});
 
