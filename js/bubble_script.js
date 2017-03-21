@@ -17,7 +17,7 @@ var pack = d3.pack()
     .size([width, width])
     .padding(1.5);
 
-d3.json("https://raw.githubusercontent.com/arthurlustosa/christmas16/gh-pages/dados/letras.json?token=AHxj2ZZDsWPzyegnzqfpbcX6uDZdhDVWks5YYZwtwA%3D%3D", function(error, classes) {
+d3.json("https://raw.githubusercontent.com/arthurlustosa/visualizacao-de-dados/gh-pages/data/letras.json", function(error, classes) {
   if (error) throw error;
 
   // Altera o tipo de dado
